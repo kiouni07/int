@@ -1,0 +1,17 @@
+{
+	id: "59408d04-a5bc-4e8e-8286-8f88285f783c"
+	type: "player"
+	player_name: "Legendaryxxx"
+	ranks: {
+		59408d04-a5bc-4e8e-8286-8f88285f783c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Legendaryxxx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

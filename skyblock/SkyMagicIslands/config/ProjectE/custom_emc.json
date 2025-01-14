@@ -1,0 +1,732 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:wheat_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:pumpkin_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:melon_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:apple|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:pumpkin|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mushroom_stew|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rabbit_stew|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:mutton|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_mutton|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chicken|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_chicken|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:porkchop|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beef|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_beef|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cooked_porkchop|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:rabbit|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:chorus_fruit|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wheat|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:melon|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:beetroot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:carrot|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:potato|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:poisonous_potato|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|3",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cookie|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|2",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:fish|1",
+      "emc": 0
+    },
+    {
+      "item": "astralsorcery:itemcraftingcomponent|0",
+      "emc": 128
+    },
+    {
+      "item": "mysticalworld:amethyst_gem|0",
+      "emc": 8192
+    },
+    {
+      "item": "bewitchment:amethyst|0",
+      "emc": 8192
+    },
+    {
+      "item": "biomesoplenty:gem|0",
+      "emc": 8192
+    },
+    {
+      "item": "projectex:knowledge_sharing_book|0",
+      "emc": 65708
+    },
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 75520
+    },
+    {
+      "item": "bewitchment:cold_iron_plate|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:plate|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:plate|2",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:plate|3",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:unfired_clay|8",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:ingot|0",
+      "emc": 0
+    },
+    {
+      "item": "mysticalworld:assorted_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:clay_bucket|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:enchanted_book|0",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:clay_barrel|1",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:clay_barrel|0",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:porcelain_barrel_extension|0",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:porcelain_barrel|0",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:faucet|0",
+      "emc": 0
+    },
+    {
+      "item": "ceramics:channel|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:boiledeggitem|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:scrambledeggitem|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:friedeggitem|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:marshmellowsitem|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:stockitem|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:cake|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:caramelitem|0",
+      "emc": 0
+    },
+    {
+      "item": "patchouli:guide_book|0",
+      "emc": 0
+    },
+    {
+      "item": "botania:lexicon|0",
+      "emc": 0
+    },
+    {
+      "item": "totemic:totempedia|0",
+      "emc": 0
+    },
+    {
+      "item": "randomthings:glowingmushroom|0",
+      "emc": 64
+    },
+    {
+      "item": "biomesoplenty:mushroom|3",
+      "emc": 56
+    },
+    {
+      "item": "biomesoplenty:grass|1",
+      "emc": 8
+    },
+    {
+      "item": "biomesoplenty:flower_0|3",
+      "emc": 872
+    },
+    {
+      "item": "biomesoplenty:grass|0",
+      "emc": 8
+    },
+    {
+      "item": "brewcraft:preparedbeachrummixitem|0",
+      "emc": 0
+    },
+    {
+      "item": "roots:component_pouch|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sugar|0",
+      "emc": 32
+    },
+    {
+      "item": "mahoutsukai:powdered_diamond|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:powdered_ender|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:powdered_gold|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:powdered_iron|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:powdered_quartz|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:powdered_emerald|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:powdered_eye|0",
+      "emc": 0
+    },
+    {
+      "item": "mahoutsukai:guidebook|0",
+      "emc": 0
+    },
+    {
+      "item": "akashictome:tome|0",
+      "emc": 0
+    },
+    {
+      "item": "randomthings:coloredgrass|0",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|1",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|2",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|3",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|4",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|5",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|6",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|7",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|8",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|9",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|10",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|11",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|12",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|13",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|14",
+      "emc": 16
+    },
+    {
+      "item": "randomthings:coloredgrass|15",
+      "emc": 16
+    },
+    {
+      "item": "OD|plateIron",
+      "emc": 256
+    },
+    {
+      "item": "OD|plateGold",
+      "emc": 2048
+    },
+    {
+      "item": "OD|plateNickel",
+      "emc": 1024
+    },
+    {
+      "item": "OD|plateLead",
+      "emc": 512
+    },
+    {
+      "item": "OD|plateSilver",
+      "emc": 512
+    },
+    {
+      "item": "OD|plateTin",
+      "emc": 256
+    },
+    {
+      "item": "OD|plateBronze",
+      "emc": 160
+    },
+    {
+      "item": "OD|plateCopper",
+      "emc": 128
+    },
+    {
+      "item": "OD|plateElectrum",
+      "emc": 1280
+    },
+    {
+      "item": "OD|plateAluminum",
+      "emc": 128
+    },
+    {
+      "item": "OD|plateAluminium",
+      "emc": 128
+    },
+    {
+      "item": "OD|gearNickel",
+      "emc": 2048
+    },
+    {
+      "item": "OD|gearLead",
+      "emc": 1024
+    },
+    {
+      "item": "OD|gearTin",
+      "emc": 512
+    },
+    {
+      "item": "OD|gearBronze",
+      "emc": 320
+    },
+    {
+      "item": "OD|gearCopper",
+      "emc": 256
+    },
+    {
+      "item": "OD|gearElelctrum",
+      "emc": 2560
+    },
+    {
+      "item": "OD|gearAluminum",
+      "emc": 256
+    },
+    {
+      "item": "OD|gearAluminium",
+      "emc": 256
+    },
+    {
+      "item": "OD|gearElectrum",
+      "emc": 2560
+    },
+    {
+      "item": "biomesoplenty:grass|2",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:grass|3",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:grass|4",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:grass|5",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:grass|6",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:grass|7",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:grass|8",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:dirt|0",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:dirt|1",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:dirt|2",
+      "emc": 4
+    },
+    {
+      "item": "biomesoplenty:white_sand|0",
+      "emc": 4
+    },
+    {
+      "item": "botania:itemfinder|0",
+      "emc": 0
+    },
+    {
+      "item": "randomthings:portablesounddampener|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:baubles|6",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:baubles|5",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:baubles|4",
+      "emc": 0
+    },
+    {
+      "item": "soot:mug|0",
+      "emc": 0
+    },
+    {
+      "item": "harvestcraft:walnut_sapling|0",
+      "emc": 32
+    },
+    {
+      "item": "harvestcraft:avocado_sapling|0",
+      "emc": 32
+    },
+    {
+      "item": "OD|stoneMarble",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|0",
+      "emc": 16
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 16
+    },
+    {
+      "item": "chisel:basalt2|7",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|1",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|6",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|5",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|3",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|2",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockmarble|4",
+      "emc": 16
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|0",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|1",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|2",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|3",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|4",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|5",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockblackmarble|6",
+      "emc": 32
+    },
+    {
+      "item": "astralsorcery:blockmarblestairs|0",
+      "emc": 24
+    },
+    {
+      "item": "arcanearchives:tome_arcana|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:fabric|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:thaumometer|0",
+      "emc": 0
+    },
+    {
+      "item": "guideapi:bloodmagic-guide|0",
+      "emc": 0
+    },
+    {
+      "item": "wizardry:cape|0",
+      "emc": 0
+    },
+    {
+      "item": "wizardry:pearl_belt|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_white|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_orange|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_magenta|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_lightblue|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_yellow|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_lime|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_pink|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_gray|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_silver|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_cyan|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_purple|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_blue|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_brown|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_green|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_red|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:banner_black|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:vis_resonator|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:activator_rail|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:resonator|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:jar_normal|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:jar_void|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:hungry_chest|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:filter|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:inlay|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:bellows|0",
+      "emc": 0
+    },
+    {
+      "item": "astralsorcery:blockmarbleslab|0",
+      "emc": 8
+    }
+  ]
+}

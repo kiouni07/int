@@ -1,0 +1,70 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": 12,
+    "Options": [
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 13,
+    "AvailabilityQuest": 1,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 1,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 2,
+    "AvailabilityDialog2": 1,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Philosopher's Stone",
+    "AvailabilityDialog": 1,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "DialogSound": "ping:bloop",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": 10,
+    "OptionFaction2Points": 100,
+    "DialogText": "So you want your own Philosopher's Stone do you?
+
+I strongly suggest that you consider exploring many schools of magic as each contains its own approach to alchemy. Perhaps with time you can bring this knowledge together to unlock your own Philosopher's Stone and along with it the powerful Dark and Red Matters!
+
+Various experienced magicians and alchemists wonder by here trading their secrets with those ready to learn. Look around the island, and perhaps you'll make some new friends!
+
+Be warned however, knowledge is not wisdom; power is not bliss! Seek ye first within thine own Self!
+
+",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": 11,
+    "AvailabilityDialog3Id": 12,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1602438412811L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

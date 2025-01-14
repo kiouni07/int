@@ -1,0 +1,353 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Genryu
+Jellycraft
+Lucas
+embeddedt
+Ncc1702
+Phillip Swearingain
+Belathus
+Zuniroa
+Spencer Gilbert
+Jessie Sims
+Peregrinus11
+DreamThorn
+NerdyWhiteGuy
+Hooley
+Pongo Sapiens
+NickT
+Jonathan McManus
+Quaternary
+Ivy_
+Jordan Pineo
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[4000:contenttweaker]: contenttweaker/fluids.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/bettercrates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/biomesoplenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/bloodmagic.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/bountifulbaubles.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/buildersbag.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/ceramics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/creative.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/farmingforblockheads.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/flyingthings.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/gears.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/harvestcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/macaws.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/mechcrafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/metalworking.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/modularmachinery.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/projecte.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/randomthings.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/simplestoragenetwork.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/wizardry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 5ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[4000:contenttweaker]: contenttweaker/fluids.zs}
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/bettercrates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/biomesoplenty.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/bloodmagic.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/botania.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/bountifulbaubles.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/buildersbag.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/ceramics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/creative.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/farmingforblockheads.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/flyingthings.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/gears.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/harvestcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/macaws.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/mechcrafting.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/metalworking.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/modularmachinery.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/projecte.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/randomthings.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/simplestoragenetwork.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: crafttweaker/recipes/wizardry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 251ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[4000:contenttweaker]: contenttweaker/fluids.zs} as we are currently loading with a different loader
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/bettercrates.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bettercrates:wooden_crate>: "WARNING: Contents will be lost if converted into EMC!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bettercrates:copper_crate>: "WARNING: Contents will be lost if converted into EMC!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bettercrates:iron_crate>: "WARNING: Contents will be lost if converted into EMC!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bettercrates:golden_crate>: "WARNING: Contents will be lost if converted into EMC!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bettercrates:diamond_crate>: "WARNING: Contents will be lost if converted into EMC!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bettercrates:obsidian_crate>: "WARNING: Contents will be lost if converted into EMC!"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/biomesoplenty.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/bloodmagic.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/botania.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/bountifulbaubles.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/buildersbag.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/ceramics.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/creative.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/farmingforblockheads.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/flyingthings.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bewitchment:cypress_broom>: "WARNING: This broom has unmount/delete glitch! Convert to Flying Things Broom!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bewitchment:elder_broom>: "WARNING: This broom has unmount/delete glitch! Convert to Flying Things Broom!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bewitchment:juniper_broom>: "WARNING: This broom has unmount/delete glitch! Convert to Flying Things Broom!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bewitchment:dragons_blood_broom>: "WARNING: This broom has unmount/delete glitch! Convert to Flying Things Broom!"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/gears.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/harvestcraft.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/macaws.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/mechcrafting.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/metalworking.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/modularmachinery.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockbiomedetector>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockdaylightdetector>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockweatherdetector>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockmanainputhatch>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:1>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:2>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:3>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:4>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:5>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:6>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberinputhatch:7>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:1>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:2>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:3>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:4>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:5>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:6>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modulardiversity:blockemberoutputhatch:7>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modularmagic:blockaspectproviderinput>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <modularmagic:blockaspectprovideroutput>: "Work In Progress: This item not yet implemented!"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/projecte.zs}
+[INITIALIZATION][SERVER][INFO] Translating item.projectex.arcane_tablet.name to Crafting Transmutation Tablet
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projectex:stone_table>: "Note: You can upgrade to better Transmutation Table or Tablets before getting Philosopher's Stone!"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/randomthings.zs}
+[INITIALIZATION][SERVER][INFO] Adding White Grass to ore dictionary entry grass
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/simplestoragenetwork.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/vanilla.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: crafttweaker/recipes/wizardry.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 482ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes matching: bettercrates
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "buildersbag:tier_1"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "buildersbag:tier_2"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "buildersbag:tier_3"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "buildersbag:tier_4"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "buildersbag:tier_5"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "ceramics:tools/unfired_clay_bucket"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bewitchment:unfired_jar"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "farmingforblockheads:market"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "flying_things:enchanted_broom"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mysticalmechanics:gear_iron"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mysticalmechanics:gear_gold"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mystgears:recipe_gear_silver"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mystgears:recipe_gear_diamond"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mystgears:recipe_gear_black_hole"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mystgears:recipe_aura_engine"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "harvestcraft:market"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "harvestcraft:shippingbin"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "harvestcraft:minerstewitem"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "mcwbridges:bamboo_bridge"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "ceramics:armor/unfired_clay_plate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bewitchment:compat/cold_iron_plate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "bewitchment:compat/silver_plate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "thaumcraft:brassplate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "thaumcraft:ironplate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "thaumcraft:thaumiumplate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "thaumcraft:voidplate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "modularmachinery:modularium_ingot"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:dm_pedestal"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_matter_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:philosophers_stone_alt"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:philosophers_stone"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:knowledge_sharing_book"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:energy_link"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:personal_link"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:refined_link"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:compressed_refined_link"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_repair_talisman"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_ignition_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:interdiction_torch"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_zero_ring"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_gem_density"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_black_hole_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_harvest_god_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_mind_stone_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_archangel_smite_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_swrg"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_mercurial_eye"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:transmutation_table"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_transmutation_tablet"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:arcane_tablet"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "randomthings:imbuingstation"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "randomthings:chunkanalyzer"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "randomthings:weatheregg_rain"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "randomthings:weatheregg_storm"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "randomthings:weatheregg_sun"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "randomthings:slimecube"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "storagenetwork:remote3"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "storagenetwork:remote2"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "storagenetwork:remote1"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:trapdoor"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:diamond_helmet"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:diamond_chestplate"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:diamond_leggings"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:diamond_boots"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "wizardry:cape"
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden crate with name bettercrates_wooden_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper crate with name bettercrates_copper_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron crate with name bettercrates_iron_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Golden crate with name bettercrates_golden_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond crate with name bettercrates_diamond_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian crate with name bettercrates_obsidian_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden upgrade with name bettercrates_up_wooden_crate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper upgrade with name bettercrates_up_copper
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron upgrade with name bettercrates_up_iron
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron/Golden upgrade with name bettercrates_up_golden
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Copper/Golden upgrade with name bettercrates_up_golden2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond upgrade with name bettercrates_up_diamond
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian upgrade with name bettercrates_up_obsidian
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Vines with name minecraft_vine
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Raw Inversion Pillar Cap with name bloodmagic_inversion_pillar_end_1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Raw Inversion Pillar Base with name bloodmagic_inversion_pillar_end
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Raw Inversion Pillar with name bloodmagic_inversion_pillar
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Orange Dye with name botania_orange
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Magenta Dye with name botania_magenta
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Light Blue Dye with name botania_lightBlue
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Dandelion Yellow with name botania_yellow
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lime Dye with name botania_lime
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Pink Dye with name botania_pink
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gray Dye with name botania_gray
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cyan Dye with name botania_cyan
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Purple Dye with name botania_purple
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cactus Green with name botania_green
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Rose Red with name botania_red
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Ink Sac with name botania_black
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Light Gray Dye with name botania_lightGray
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Beginner Builder's Bag with name buildersbag_tier_1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Regular Builder's Bag with name buildersbag_tier_2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Builder's Bag with name buildersbag_tier_3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Masterful Builder's Bag with name buildersbag_tier_4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Expert Builder's Bag with name buildersbag_tier_5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Unfired Clay Bucket with name ceramics_tools/unfired_clay_bucket
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Unfired Jar with name bewitchment_unfired_jar
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Market with name farmingforblockheads_market
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enchanted Broom with name bewitchment_cypress_broom_to_flying_things_enhanted_broom
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enchanted Broom with name bewitchment_elder_broom_to_flying_things_enhanted_broom
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enchanted Broom with name bewitchment_juniper_broom_to_flying_things_enhanted_broom
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enchanted Broom with name bewitchment_dragons_blood_broom_to_flying_things_enhanted_broom
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Phial of Animation with name flying_things_phial_of_animation
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Gear with name mysticalmechanics_gear_iron
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Gear with name mysticalmechanics_gear_gold
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.gear_silver.name with name mystgears_recipe_gear_silver
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for item.gear_diamond.name with name mystgears_recipe_gear_diamond
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Black Hole Gear with name mystgears_recipe_gear_black_hole
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aura Engine with name mystgears_recipe_aura_engine
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Market with name harvestcraft_market
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Shipping Bin with name harvestcraft_shippingbin
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Miner's Stew with name harvestcraft_minerstewitem
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bamboo Bridge with name mcwbridges_bamboo_bridge
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Unfired Clay Plate with name ceramics_armor/unfired_clay_plate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Cold Iron Plate with name bewitchment_compat/cold_iron_plate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silver Plate with name bewitchment_compat/silver_plate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Brass Plate with name thaumcraft_brassplate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Plate with name thaumcraft_ironplate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Thaumium Plate with name thaumcraft_thaumiumplate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Void Metal Plate with name thaumcraft_voidplate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Modularium with name modularmachinery_modularium_ingot
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Normal Energy Input Hatch with name modularmachinery_energy_input_normal
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Energy Input Hatch with name modularmachinery_energy_input_reinforced
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Normal Fluid Input Hatch with name modularmachinery_fluid_input_normal
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Fluid Input Hatch with name modularmachinery_fluid_input_reinforced
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Normal Fluid Output Hatch with name modularmachinery_fluid_output_normal
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Fluid Output Hatch with name modularmachinery_fluid_output_reinforced
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mana Input Hatch with name modulardiversity_blockmanainputhatch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mana Output Hatch with name modulardiversity_blockmanaoutputhatch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Life Essence Input Hatch with name modularmagic_blocklifeessenceproviderinput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Life Essence Output Hatch with name modularmagic_blocklifeessenceprovideroutput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Demon Will Input Hatch with name modularmagic_blockwillproviderinput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Demon Will Output Hatch with name modularmagic_blockwillprovideroutput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tiny Ember Input with name modulardiversity_blockemberinputhatch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tiny Ember Output with name modulardiversity_blockemberoutputhatch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Essentia Input Hatch with name modularmagic_blockaspectproviderinput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Essentia Output Hatch with name modularmagic_blockaspectprovideroutput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Starlight Collector Hatch with name modularmagic_blockstarlightproviderinput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Starlight Distributor Hatch with name modularmagic_blockstarlightprovideroutput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Constellation Detector Hatch with name modularmagic_blockconstellationprovider
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mystical Mechanical Input with name modulardversity_blockmystmechinput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mystical Mechanical Output with name modulardversity_blockmystmechoutput
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dark Matter Pedestal with name projecte_dm_pedestal
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Dark Matter with name projecte_conversions/aeternalis_fuel_to_dark_matter
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Philosopher's Stone with name projecte_philosophers_stone
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Knowledge Sharing Book with name projectex_knowledge_sharing_book
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Energy EMC Link with name projectex_energy_link
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Personal EMC Link with name projectex_personal_link
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Refined EMC Link with name projectex_refined_link
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Compressed Refined EMC Link with name projectex_compressed_refined_link
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Repair Talisman with name projecte_item.pe_repair_talisman
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ignition Ring with name projecte_item.pe_ignition_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Interdiction Torch with name projecte_interdiction_torch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Zero Ring with name projecte_item.pe_zero_ring
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gem of Eternal Density with name projecte_item.pe_gem_density
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Black Hole Band with name projecte_item.pe_black_hole_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Harvest Goddess Band with name projecte_item.pe_harvest_god_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mind Stone with name projecte_item.pe_mind_stone_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Archangel's Smite with name projecte_item.pe_archangel_smite_0
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Swiftwolf's Rending Gale with name projecte_item.pe_swrg
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mercurial Eye with name projecte_item.pe_mercurial_eye
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Transmutation Table with name projecte_transmutation_table
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Transmutation Tablet with name projecte_item.pe_transmutation_tablet
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Crafting Transmutation Tablet with name projectex_arcane_tablet
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Imbuing Station with name randomthings_imbuingstation
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chunk Analyzer with name randomthings_chunkanalyzer
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Weather Egg <Rain> with name randomthings_weatheregg_rain
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Weather Egg <Storm> with name randomthings_weatheregg_storm
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Weather Egg <Sun> with name randomthings_weatheregg_sun
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slime Cube with name randomthings_slimecube
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Simple Storage Remote with name storagenetwork_remote3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Upgraded Storage Remote with name storagenetwork_remote2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Storage Remote with name storagenetwork_remote1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden Trapdoor with name minecraft_trapdoor
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Helmet with name minecraft_diamond_helmet
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Chestplate with name minecraft_diamond_chestplate
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Leggings with name minecraft_diamond_leggings
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Boots with name minecraft_diamond_boots
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cape with name wizardry_cape
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@3418f7c9
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@4f6a4368
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@c12e597
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@5087dff1
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@2352dc97
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@3ebeba96
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@259bde8b
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@4b0df59e
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@7e8e3e0c
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@352f4141
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@4ebbaee9
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@6abe13a5
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@654f3ea0
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@2a254e01
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@39fa714a
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@23437eeb
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@3f65fe1d
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@3fb0fab6
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@55aaac2b
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@6d263453
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@7d23bafc
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@45fe8aa4
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@4535bdc4
+[POSTINITIALIZATION][SERVER][INFO] Adding Melter recipe: teamroots.embers.recipe.ItemMeltingRecipe@19ed9d9d
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@79f93006
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@48e32e37
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@20d06172
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@55a40180
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@65ed6232
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@342e7a2e
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@17d64628
+[POSTINITIALIZATION][SERVER][INFO] Adding Stamper recipe: teamroots.embers.recipe.ItemStampingRecipe@628bfd53

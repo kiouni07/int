@@ -1,0 +1,87 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 1736913258034L,
+            "Slot": 44
+        }
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 11333L
+            },
+            {
+                "Quest": 11,
+                "Date": 27518L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 12
+            }
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 26
+        },
+        {
+            "Dialog": 27
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 29
+        },
+        {
+            "Dialog": 15
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Legendaryxxx",
+    "UUID": "f740b3e1-520d-33ee-af20-d4486f8896ef",
+    "ScriptStoreddata": {
+    }
+}

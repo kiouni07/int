@@ -1,0 +1,320 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Phillip Swearingain
+embeddedt
+Jordan Pineo
+Jessie Sims
+Peregrinus11
+Hooley
+Jellycraft
+Belathus
+Jonathan McManus
+Genryu
+Quaternary
+Ivy_
+Pongo Sapiens
+NickT
+Ncc1702
+DreamThorn
+Lucas
+Zuniroa
+Spencer Gilbert
+NerdyWhiteGuy
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: _func.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ae2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: alchemistry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:contenttweaker]: content tweaker.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: corail.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: dark utils.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: enderio.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: events.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ftb.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: nuclearcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: project e.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: project ex.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipe stages.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: telepastries.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tiny progressions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: xen.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 4ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [alchemistry]
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: _func.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ae2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: alchemistry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:contenttweaker]: content tweaker.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: corail.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: dark utils.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: enderio.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: events.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ftb.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: nuclearcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: project e.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: project ex.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipe stages.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: telepastries.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tiny progressions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: xen.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 8ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: _func.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ae2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: alchemistry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[0:contenttweaker]: content tweaker.zs}
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: corail.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: dark utils.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: enderio.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: events.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ftb.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: nuclearcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: project e.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: project ex.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipe stages.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: telepastries.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tiny progressions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: xen.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 388ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: _func.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ae2.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:grindstone>: "Disabled"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:crank>: "Disabled"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:vibration_chamber>: "Disabled"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: alchemistry.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <alchemistry:element:4>: "First acquired from beryllium dust from the rock crusher"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: content tweaker.zs} as we are currently loading with a different loader
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: corail.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: dark utils.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <darkutils:trap_move>: "Prevents spawns when placed on top of polluted earth, unfortunately. Please use a Mob Fan instead"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <darkutils:trap_move_fast>: "Prevents spawns when placed on top of polluted earth, unfortunately. Please use a Mob Fan instead"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <darkutils:trap_move_hyper>: "Prevents spawns when placed on top of polluted earth, unfortunately. Please use a Mob Fan instead"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: enderio.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: events.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ftb.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: nuclearcraft.zs}
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_alloy_furnace recipe: 1 x item.item_material:0, 1 x item.item_material:51 -> 1 x item.item_material:1
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_alloy_furnace recipe: 1 x item.item_material:0, 1 x item.item_material:52 -> 1 x item.item_material:53
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_alloy_furnace recipe: 1 x item.item_material:66, 1 x item.item_material:67 -> 1 x item.item_material:54
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_infuser recipe: 1 x tile.nuclearcraft.cooler:0, 100 x ender -> 1 x tile.nuclearcraft.cooler:9
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: project e.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projecte:item.pe_philosophers_stone>: "Disabled, for now"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projecte:item.pe_tome>: "Disabled"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: project ex.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <projectex:alchemy_table>: "Disabled"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipe stages.zs}
+[INITIALIZATION][SERVER][INFO] Adding: <minecraft:dirt:1> to stage: "aluminum"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: telepastries.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: tiny progressions.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <tp:stone_hammer>: "Disabled"
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: vanilla.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: xen.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 293ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_fuel_0"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_fuel_1"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_fuel_2"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/mobius_fuel_to_alchemical_coal"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/alchemical_coal_to_coal"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/emerald_to_diamond"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/gold_to_iron"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/diamonds_to_iron"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/iron_to_ender_pearl"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/iron_to_gold"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/diamond_to_emerald"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/gold_to_diamond"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/diamond_to_iron"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:conversions/aeternalis_fuel_to_mobius_fuel"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:collector/mk1"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projectex:relay/mk1"
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <minecraft:stone> and replacing them with <ore:ingotTungsten>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <enderio:item_material> and replacing them with <minecraft:air>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <enderio:item_material:11> and replacing them with <enderio:item_material:10>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <enderio:item_material> and replacing them with <minecraft:crafting_table>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <enderio:item_material:1> and replacing them with <enderio:item_material>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <minecraft:glowstone_dust> and replacing them with <ore:ingotPlutonium>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <minecraft:diamond> and replacing them with <minecraft:ender_pearl>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <projecte:item.pe_covalence_dust:1> and replacing them with <projecte:item.pe_covalence_dust>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <projecte:item.pe_covalence_dust:2> and replacing them with <projecte:item.pe_covalence_dust>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <projecte:item.pe_matter> and replacing them with <projectex:matter:9>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <projecte:item.pe_time_watch> and replacing them with <projecte:item.pe_soul_stone>
+[POSTINITIALIZATION][SERVER][INFO] Removing all occurences of ingredient: <minecraft:ender_eye> and replacing them with <projectex:matter:4>
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "alchemistry:evaporator"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_time_watch"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:alchemical_chest"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_gem_armor_1"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:condenser_mk1"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "telepastries:end_cake"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "nuclearcraft:tile.nuclearcraft.decay_hastener_idle"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "enderio:simple_stirling_generator"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "enderio:stirling_generator"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "enderio:stirling_generator_upgrade"
+[POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "enderio:simple_crafter"
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charger with name ct_shaped-929234841
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fission Controller with name ct_shaped93321300
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fusion Controller with name ct_shaped2144994324
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tombstone with name ct_shaped-1358362425
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Simple Grave with name ct_shaped2053117608
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Normal Grave with name ct_shaped1706581714
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cross Grave with name ct_shaped-134856709
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Vacuum Chest with name ct_shaped-548668682
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Conduit Binder Composite with name ct_shaped1187876031
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Item Conduit with name ct_shaped980649285
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yeta Wrench with name ct_shaped873991948
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Item Filter with name ct_shaped-698286057
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Item Filter with name ct_shaped-1680415433
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Item Filter with name ct_shaped1632422487
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Task Screen with name ct_shaped729299255
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Alchemical Coal with name ct_shapeless622316257
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Alchemical Coal with name ct_shapeless-1781779425
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mobius Fuel with name ct_shapeless2027130875
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aeternalis Fuel with name ct_shapeless-325953395
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Transmutation Table with name ct_shaped1528013575
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Interdiction Torch with name ct_shaped-477432596
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Knowledge Sharing Book with name ct_shaped-921446776
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tiny Coal with name ct_shapeless1911545108
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cobblestone Generator Tier 2 with name ct_shaped-1396944740
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cobblestone Generator Tier 3 with name ct_shaped1402459639
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Ghast with name ct_shapeless1826102482
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Blaze with name ct_shapeless-1153911769
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Cow with name ct_shapeless-587431613
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Chicken with name ct_shapeless716833511
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Creeper with name ct_shapeless-1024663498
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Enderman with name ct_shapeless1338439214
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Sheep with name ct_shapeless-1362713523
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Shulker with name ct_shapeless2091621026
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Skeleton with name ct_shapeless218385388
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Wither Skeleton with name ct_shapeless1855245871
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Spider with name ct_shapeless1799223713
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Witch with name ct_shapeless-1814079504
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Slime with name ct_shapeless1022741281
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Spawn Guardian with name ct_shapeless-1422676590
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Saddle with name ct_shaped-2088107816
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Evaporator with name alchemistry_evaporator_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Watch of Flowing Time with name projecte_item.pe_time_watch_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Alchemical Chest with name projecte_alchemical_chest_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gem Leggings with name projecte_item.pe_gem_armor_1_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Energy Condenser with name projecte_condenser_mk1_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for End Cake with name telepastries_end_cake_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Decay Hastener with name nuclearcraft_tile.nuclearcraft.decay_hastener_idle_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Simple Stirling Generator with name enderio_simple_stirling_generator_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stirling Generator with name enderio_stirling_generator_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stirling Generator with name enderio_stirling_generator_upgrade_modified
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Simple Crafter with name enderio_simple_crafter_modified
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <morecharcoal:apple_charcoal>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <morecharcoal:apple_charcoal>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <morecharcoal:bread_charcoal>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <morecharcoal:bread_charcoal>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <morecharcoal:egg_charcoal>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <morecharcoal:egg_charcoal>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tp:cooked_apple>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tp:toasted_bread>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tp:fried_egg>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:material>
+[POSTINITIALIZATION][SERVER][INFO] Setting the stages for recipes based on their output stack, 1 stages
+[POSTINITIALIZATION][SERVER][INFO] Replacing recipe: 4xtile.dirt@1 new recipe: RecipeStage{tier='aluminum', recipe=4xtile.dirt@1:[net.minecraft.item.crafting.Ingredient@62c1259f, net.minecraft.item.crafting.Ingredient@31daf094, net.minecraft.item.crafting.Ingredient@31daf094, net.minecraft.item.crafting.Ingredient@62c1259f]}
+[AVAILABLE][SERVER][INFO] Removed Chemical Combiner recipe for [<minecraft:gunpowder>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Combiner recipe for [<minecraft:rotten_flesh>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Combiner recipe for [<minecraft:bone>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:stone:5>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:stone:6>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:cobblestone>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:stone>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:spider_eye>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:grass>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:dirt>]
+[AVAILABLE][SERVER][INFO] Removed Chemical Dissolver Recipe for [<minecraft:dirt:1>]
+[AVAILABLE][SERVER][INFO] Added Liquifier recipe for [<alchemistry:element:15>] -> [<liquid:lava>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [cactus] for [<minecraft:cactus>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [aluminum] for [<minecraft:stone:1>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [aluminum] for [<minecraft:stone:2>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [aluminum] for [<minecraft:stone:3>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [aluminum] for [<minecraft:stone:4>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [aluminum] for [<minecraft:stone:5>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [aluminum] for [<minecraft:stone:6>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:grass>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:carrot>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:reeds>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:apple>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:log>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:log:1>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:log:2>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:log:3>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:log2>]
+[AVAILABLE][SERVER][INFO] Chemical Combiner recipe is set to require stage [sapling] for [<minecraft:log2:1>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:stone:5>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:stone:6>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:cobblestone>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:stone>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<tp:plump_peach>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<tp:plump_pear>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:uranium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:uranium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:uranium:8>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:plutonium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:plutonium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:plutonium:8>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:plutonium:12>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:curium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:curium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:curium:8>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:curium:12>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:californium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:californium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:californium:8>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:californium:12>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:americium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:americium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:americium:8>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:neptunium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:neptunium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:berkelium>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<nuclearcraft:berkelium:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:skull>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:skull:2>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:skull:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_skeleton>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_zombie>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_creeper>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_spider>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_slime>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_witch>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_blaze>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_ghast>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_wither_skeleton>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_enderman>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_shulker>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_wither>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<deepmoblearning:pristine_matter_dragon>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projecte:item.pe_matter>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projecte:item.pe_matter:1>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:1>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:2>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:3>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:5>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:6>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:7>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:8>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:9>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:10>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<projectex:matter:11>]
+[AVAILABLE][SERVER][INFO] Added Chemical Combiner recipe for [[<alchemistry:element:74>, <alchemistry:compound:1> * 4, <alchemistry:compound:4> * 4]]->[<appliedenergistics2:sky_stone_block>]
+[AVAILABLE][SERVER][INFO] Added Chemical Combiner recipe for [[<alchemistry:element:76> * 2, <alchemistry:compound:1> * 4, <alchemistry:element:24> * 2]]->[<appliedenergistics2:material>]
+[AVAILABLE][SERVER][INFO] Added Chemical Combiner recipe for [[<alchemistry:compound:1> * 2, <alchemistry:compound:22> * 2, <alchemistry:element:16>]]->[<minecraft:netherrack> * 4]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:spider_eye>]
+[AVAILABLE][SERVER][INFO] Added Chemical Combiner recipe for [[<alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8, <alchemistry:element:6> * 8]]->[<minecraft:coal_block>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<tombstone:crafting_ingredient:3>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<minecraft:arrow>]
+[AVAILABLE][SERVER][INFO] Added Chemical Combiner recipe for [[<alchemistry:element:26> * 16, <alchemistry:compound:17>, <alchemistry:compound:10>]]->[<enderio:item_alloy_ingot:4>]
+[AVAILABLE][SERVER][INFO] Added Chemical Dissolver Recipe for [<morecharcoal:charcoal_chunk>]

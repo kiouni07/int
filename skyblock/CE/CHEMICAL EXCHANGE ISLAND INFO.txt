@@ -1,0 +1,11 @@
+Currently there is no automated way to create starting boxes, but setting  a command block at your spawn with the following command:
+
+/topography island home @p
+
+is the easiest way to give everyone their own box if you are not playing a collaborative playthrough
+
+
+
+Players can also invite others to their team with the command:
+
+/topography island invite <name>

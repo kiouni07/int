@@ -13,7 +13,7 @@
     ],
     "ItemGiversList": [
         {
-            "Long": 1736913258034L,
+            "Long": 1736944401312L,
             "Slot": 44
         }
     ],
@@ -33,15 +33,18 @@
                 "QuestCompleted": 0b,
                 "ExtraData": {
                 },
+                "Quest": 10
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
                 "Quest": 12
             }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
-        {
-            "Dialog": 16
-        },
         {
             "Dialog": 4
         },
@@ -55,10 +58,22 @@
             "Dialog": 8
         },
         {
-            "Dialog": 25
+            "Dialog": 9
         },
         {
-            "Dialog": 9
+            "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 25
         },
         {
             "Dialog": 26
@@ -71,9 +86,6 @@
         },
         {
             "Dialog": 29
-        },
-        {
-            "Dialog": 15
         }
     ],
     "ItemGiverChained": [

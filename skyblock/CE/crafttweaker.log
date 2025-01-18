@@ -1,24 +1,24 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Pongo Sapiens
-Jessie Sims
-Quaternary
-Peregrinus11
-Ncc1702
-Lucas
-NickT
-Phillip Swearingain
-Genryu
-Hooley
-Jordan Pineo
-Jonathan McManus
-Jellycraft
+Spencer Gilbert
 NerdyWhiteGuy
+Jellycraft
+Phillip Swearingain
 embeddedt
 Ivy_
-Spencer Gilbert
-Zuniroa
-DreamThorn
+Ncc1702
+Jessie Sims
+Hooley
 Belathus
+Zuniroa
+NickT
+Jonathan McManus
+Peregrinus11
+DreamThorn
+Pongo Sapiens
+Genryu
+Jordan Pineo
+Lucas
+Quaternary
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -40,7 +40,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tiny progressions.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: xen.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 7ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 5ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [alchemistry]
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: _func.zs} as we are currently loading with a different loader
@@ -60,7 +60,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tiny progressions.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [alchemistry | SIDE_SERVER]: Skipping file {[0:crafttweaker]: xen.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 4ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: _func.zs} as we are currently loading with a different loader
@@ -80,7 +80,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: tiny progressions.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: vanilla.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: xen.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 417ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 511ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [alchemistry], [contenttweaker], [recipeevent | crafttweaker]]
@@ -118,7 +118,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <tp:stone_hammer>: "Disabled"
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: vanilla.zs}
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: xen.zs}
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 558ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 486ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_fuel_0"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "projecte:item.pe_fuel_1"
@@ -221,7 +221,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <tp:fried_egg>
 [POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <appliedenergistics2:material>
 [POSTINITIALIZATION][SERVER][INFO] Setting the stages for recipes based on their output stack, 1 stages
-[POSTINITIALIZATION][SERVER][INFO] Replacing recipe: 4xtile.dirt@1 new recipe: RecipeStage{tier='aluminum', recipe=4xtile.dirt@1:[net.minecraft.item.crafting.Ingredient@22a2e581, net.minecraft.item.crafting.Ingredient@7ca8f5d7, net.minecraft.item.crafting.Ingredient@7ca8f5d7, net.minecraft.item.crafting.Ingredient@22a2e581]}
+[POSTINITIALIZATION][SERVER][INFO] Replacing recipe: 4xtile.dirt@1 new recipe: RecipeStage{tier='aluminum', recipe=4xtile.dirt@1:[net.minecraft.item.crafting.Ingredient@7674f9d4, net.minecraft.item.crafting.Ingredient@4b5ceb5d, net.minecraft.item.crafting.Ingredient@4b5ceb5d, net.minecraft.item.crafting.Ingredient@7674f9d4]}
 [AVAILABLE][SERVER][INFO] Removed Chemical Combiner recipe for [<minecraft:gunpowder>]
 [AVAILABLE][SERVER][INFO] Removed Chemical Combiner recipe for [<minecraft:rotten_flesh>]
 [AVAILABLE][SERVER][INFO] Removed Chemical Combiner recipe for [<minecraft:bone>]

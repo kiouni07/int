@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-01-19 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-17 11:57:34 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-16 14:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-19 01:38:27 +0000"
     },
     "done": true
   },
@@ -229,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-01-16 14:46:24 +0000"
@@ -250,6 +268,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2025-01-17 11:41:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-19 02:20:19 +0000"
     },
     "done": true
   },
@@ -302,9 +326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-01-19 01:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-16 09:58:40 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/1_sagmill_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2025-01-19 04:51:23 +0000"
     },
     "done": true
   },
@@ -370,6 +406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-19 01:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 11:48:40 +0000"
@@ -412,11 +454,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-01-19 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-16 14:30:28 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2025-01-19 02:20:03 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -430,6 +484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-01-19 03:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2025-01-18 03:37:32 +0000"
@@ -439,6 +499,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-16 09:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-01-19 01:59:29 +0000"
     },
     "done": true
   },
@@ -463,6 +529,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-01-16 11:49:33 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2025-01-19 03:20:35 +0000"
     },
     "done": true
   },
@@ -587,6 +659,12 @@
     },
     "done": true
   },
+  "nuclearcraft:processors/manufactory": {
+    "criteria": {
+      "has_item": "2025-01-19 02:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 11:48:40 +0000"
@@ -626,6 +704,12 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-16 09:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-19 01:38:27 +0000"
     },
     "done": true
   },
@@ -748,6 +832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-01-19 01:38:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-01-16 11:02:23 +0000"
@@ -757,6 +847,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-16 14:30:58 +0000"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-19 04:55:14 +0000"
     },
     "done": true
   },
@@ -862,8 +958,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-19 03:11:09 +0000"
+    },
+    "done": true
+  },
   "enderiomachines:basics/goal/1_all_simple_get": {
     "criteria": {
+      "inv_changed-enderio:block_simple_sag_mill": "2025-01-19 04:51:23 +0000",
       "inv_changed-enderio:block_simple_stirling_generator": "2025-01-16 09:25:42 +0000"
     },
     "done": false
@@ -928,6 +1031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-19 01:38:29 +0000"
+    },
+    "done": true
+  },
   "projecte:alchemical_chest": {
     "criteria": {
       "alch_chest": "2025-01-16 14:43:03 +0000"
@@ -943,6 +1052,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2025-01-17 12:08:04 +0000"
+    },
+    "done": true
+  },
+  "nuclearcraft:devices/bin": {
+    "criteria": {
+      "has_item": "2025-01-19 04:58:59 +0000"
     },
     "done": true
   },
@@ -967,6 +1082,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-16 13:01:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-19 04:50:16 +0000"
     },
     "done": true
   },
@@ -1210,15 +1331,33 @@
     },
     "done": true
   },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-01-19 04:49:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2025-01-16 09:22:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-19 01:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-16 12:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-19 02:00:35 +0000"
     },
     "done": true
   },
@@ -1252,6 +1391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-01-19 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-01-18 13:42:01 +0000"
@@ -1273,6 +1418,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 11:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-19 03:20:08 +0000"
     },
     "done": true
   },
@@ -1330,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-19 01:38:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-16 11:49:43 +0000"
@@ -1360,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-01-19 01:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 11:48:40 +0000"
@@ -1375,6 +1538,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-01-16 11:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-01-19 01:59:29 +0000"
+    },
+    "done": true
+  },
+  "bonsaitrees:grow": {
+    "criteria": {
+      "finished_growing_a_bonsai_tree": "2025-01-19 03:14:31 +0000"
     },
     "done": true
   },
@@ -1408,11 +1583,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2025-01-19 02:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-01-16 12:31:18 +0000"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter2": "2025-01-19 03:20:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
@@ -1477,6 +1664,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2025-01-17 12:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-19 02:13:59 +0000"
     },
     "done": true
   },

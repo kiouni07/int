@@ -1,0 +1,162 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  name = dimhopper
+  action = animatebackground
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-centered
+  x = -63
+  action = movebutton
+  y = 158
+}
+
+customization {
+  identifier = %id=400298%
+  width = 122
+  action = resizebutton
+  height = 14
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = assets/single.png
+  backgroundnormal = assets/single.png
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -62
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=400322%
+  width = 121
+  action = resizebutton
+  height = 14
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = assets/multi.png
+  backgroundnormal = assets/multi.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-left
+  x = 282
+  action = movebutton
+  y = 67
+}
+
+customization {
+  identifier = %id=400382%
+  width = 71
+  action = resizebutton
+  height = 13
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = assets/options.png
+  backgroundnormal = assets/options.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-left
+  x = 340
+  action = movebutton
+  y = 120
+}
+
+customization {
+  identifier = %id=502382%
+  width = 40
+  action = resizebutton
+  height = 15
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = assets/quit.png
+  backgroundnormal = assets/quit.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = top-left
+  x = 261
+  action = movebutton
+  y = 295
+}
+
+customization {
+  identifier = %id=400346%
+  width = 42
+  action = resizebutton
+  height = 14
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = assets/mods.png
+  backgroundnormal = assets/mods.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+

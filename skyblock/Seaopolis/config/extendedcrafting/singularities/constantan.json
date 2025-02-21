@@ -1,0 +1,10 @@
+{
+  "name": "Constantan",
+  "colors": [
+    "F1C66A",
+    "F1C66A"
+  ],
+  "ingredient": {
+    "tag": "forge:ingots/constantan"
+  }
+}

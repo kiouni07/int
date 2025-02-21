@@ -1,0 +1,10 @@
+{
+  "name": "Biotite",
+  "colors": [
+    "1E1E30",
+    "000000"
+  ],
+  "ingredient": {
+    "item": "quark:biotite"
+  }
+}

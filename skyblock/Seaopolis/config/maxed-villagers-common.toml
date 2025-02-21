@@ -1,0 +1,8 @@
+
+#Maxed Villager Enchants
+[general]
+	#If this value is true, "Decapitation Mode" will be on. All enchants will be capable of being selected, with the exception of the maximum enchant, which can not be selected. If the maximum level is 1, that level can still be chosen. This overrides the min/max option.
+	decapitation = false
+	#If this value is true, the default functionality (maxed enchants) will be on. If it is false, the enchants will always be the minimum value.
+	maxed = true
+

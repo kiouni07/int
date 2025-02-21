@@ -1,0 +1,10 @@
+{
+  "name": "Wood",
+  "colors": [
+    "463721",
+    "463721"
+  ],
+  "ingredient": {
+    "tag": "minecraft:logs"
+  }
+}

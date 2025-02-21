@@ -1,0 +1,61 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.CreateWorldScreen
+  renderorder = background
+}
+
+customization {
+  identifier = %id=345972%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=505972%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=345185%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505185%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505120%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505151%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345100%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=345151%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=505100%
+  action = hidebutton
+}
+

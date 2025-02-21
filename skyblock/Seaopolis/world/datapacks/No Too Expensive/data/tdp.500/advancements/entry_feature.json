@@ -1,0 +1,1 @@
+{"author": "patreon.com/thediamondplayables", "parent": "tdp.500:entry", "display": {"frame": "task", "title": "No Too Expensive", "description": {"type": "text", "text": "Removes \"Too Expensive\"!", "color": "yellow"}, "icon": {"item": "minecraft:barrier"}, "show_toast": false, "announce_to_chat": false, "hidden": false}, "criteria": {"entry": {"trigger": "minecraft:tick"}}}

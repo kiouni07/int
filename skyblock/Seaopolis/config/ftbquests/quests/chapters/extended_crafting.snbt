@@ -1,0 +1,187 @@
+{
+	id: "78651FF131E46CB8"
+	group: "3BC102B21F0A0E0D"
+	order_index: 0
+	filename: "extended_crafting"
+	title: "Extended Crafting"
+	icon: "extendedcrafting:ultimate_singularity"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["Used to make blocks in extended crafting"]
+			dependencies: ["0CE19784E33A02E2"]
+			id: "5B2D4A0105E362B3"
+			tasks: [{
+				id: "15F9159E593D0F69"
+				type: "item"
+				item: "extendedcrafting:black_iron_ingot"
+			}]
+			rewards: [{
+				id: "6B96483FE5FF74C2"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			description: ["Requires high level dusts from advanced rocketry and thermal"]
+			dependencies: ["5B2D4A0105E362B3"]
+			id: "59754B8B78D70886"
+			tasks: [{
+				id: "64872FE5A88D2694"
+				type: "item"
+				item: "extendedcrafting:luminessence"
+			}]
+			rewards: [{
+				id: "041F0F42C0BF28FF"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			description: ["First tier"]
+			dependencies: ["59754B8B78D70886"]
+			id: "62E6B56A7F09D5E7"
+			tasks: [{
+				id: "58B184E7322D5300"
+				type: "item"
+				item: "extendedcrafting:basic_table"
+			}]
+			rewards: [{
+				id: "7B86923926C23602"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.5d
+			description: ["Second tier"]
+			dependencies: ["62E6B56A7F09D5E7"]
+			id: "32F8D5E48F811040"
+			tasks: [{
+				id: "49BB719C1F960636"
+				type: "item"
+				item: "extendedcrafting:advanced_table"
+			}]
+			rewards: [{
+				id: "6A77B4FF9A0437DB"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 1.5d
+			description: ["Third tier"]
+			dependencies: ["32F8D5E48F811040"]
+			id: "35A387C379719D73"
+			tasks: [{
+				id: "07EDF07EF32F6180"
+				type: "item"
+				item: "extendedcrafting:elite_table"
+			}]
+			rewards: [{
+				id: "5E74E376A7FC0422"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			description: ["Final tier"]
+			dependencies: ["35A387C379719D73"]
+			id: "71DFA22926A0E15B"
+			tasks: [{
+				id: "1768E7FB9778B97A"
+				type: "item"
+				item: "extendedcrafting:ultimate_table"
+			}]
+			rewards: [{
+				id: "4A6AE511B5B1827A"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.0d
+			description: ["Used in the creation of singularities"]
+			dependencies: ["596CA00A09E7E7EE"]
+			id: "4860573460B93DA0"
+			tasks: [{
+				id: "57AAF13A2248DAF6"
+				type: "item"
+				item: "extendedcrafting:compressor"
+			}]
+			rewards: [{
+				id: "59A7DBF4D323A8BD"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			description: ["Used to make compressors "]
+			dependencies: ["71DFA22926A0E15B"]
+			id: "596CA00A09E7E7EE"
+			tasks: [{
+				id: "5B4B122D29D61C35"
+				type: "item"
+				item: "extendedcrafting:frame"
+			}]
+			rewards: [{
+				id: "26ED9EA7A3C4E457"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 6.0d
+			description: ["Look at that bad boy"]
+			dependencies: ["4860573460B93DA0"]
+			size: 1.5d
+			id: "6DEE8B7AD9BB833D"
+			tasks: [{
+				id: "270FCAC50B66F403"
+				type: "item"
+				item: "extendedcrafting:ultimate_singularity"
+			}]
+			rewards: [{
+				id: "10CB75295D3835A5"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 6.0d
+			description: ["Now thats what i call a ingot"]
+			dependencies: [
+				"7909FAA47C3EE75F"
+				"31B41F52A2180E96"
+			]
+			size: 1.5d
+			id: "03F25368252FA2BD"
+			tasks: [{
+				id: "4AB056642C32407F"
+				type: "item"
+				item: "extendedcrafting:the_ultimate_ingot"
+			}]
+			rewards: [{
+				id: "7841C6A7F6C5AB50"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

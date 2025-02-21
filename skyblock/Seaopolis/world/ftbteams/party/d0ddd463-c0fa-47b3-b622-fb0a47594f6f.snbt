@@ -1,0 +1,19 @@
+{
+	id: "d0ddd463-c0fa-47b3-b622-fb0a47594f6f"
+	type: "party"
+	owner: "59408d04-a5bc-4e8e-8286-8f88285f783c"
+	ranks: {
+		59408d04-a5bc-4e8e-8286-8f88285f783c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Legendaryxxx's Party"
+		"ftbteams:color": "#59EDFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1738503458954L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Legendaryxxx\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }]
+	extra: { }
+}

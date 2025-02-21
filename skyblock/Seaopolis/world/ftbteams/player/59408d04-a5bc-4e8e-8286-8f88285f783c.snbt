@@ -1,0 +1,17 @@
+{
+	id: "59408d04-a5bc-4e8e-8286-8f88285f783c"
+	type: "player"
+	player_name: "Legendaryxxx"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Legendaryxxx"
+		"ftbteams:color": "#FFA959"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

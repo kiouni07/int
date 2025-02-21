@@ -1,0 +1,234 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/Assets/Sea/back.png
+  action = texturizebackground
+}
+
+customization {
+  baseheight = 1017
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=400322%
+  width = 255
+  action = resizebutton
+  height = 51
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Sea/mp2.png
+  backgroundnormal = config/fancymenu/Assets/Sea/mp.png
+}
+
+customization {
+  identifier = %id=400322%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=604382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604382%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -60
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=400382%
+  width = 62
+  action = resizebutton
+  height = 55
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Sea/st2.png
+  backgroundnormal = config/fancymenu/Assets/Sea/s.png
+}
+
+customization {
+  identifier = %id=400382%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 7
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=502382%
+  width = 62
+  action = resizebutton
+  height = 55
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Sea/q2.png
+  backgroundnormal = config/fancymenu/Assets/Sea/q.png
+}
+
+customization {
+  identifier = %id=502382%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376382%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -123
+  action = movebutton
+  y = -56
+}
+
+customization {
+  identifier = %id=400298%
+  width = 255
+  action = resizebutton
+  height = 51
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Sea/sp2.png
+  backgroundnormal = config/fancymenu/Assets/Sea/sp.png
+}
+
+customization {
+  identifier = %id=400298%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = vanilla_button_visibility_requirements
+}
+
+customization {
+  path = config/fancymenu/Assets/Sea/logo.png
+  orientation = mid-centered
+  x = -237
+  width = 487
+  action = addtexture
+  actionid = 389886db-9b7a-4f00-bafb-cbeeabce96511632935941435
+  y = -162
+  height = 81
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config/fancymenu/Assets/Sea/bh2.png
+  label = 
+  loopbackgroundanimations = true
+  x = -255
+  width = 255
+  actionid = 8f366c32-2e45-413d-8b9f-aa8ab317f11c1632936687856
+  action = addbutton
+  y = -52
+  backgroundnormal = config/fancymenu/Assets/Sea/bh.png
+  value = https://Bisecthosting.com/Skyopolis
+  height = 52
+}
+

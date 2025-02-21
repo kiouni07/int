@@ -1,0 +1,4 @@
+# Default config file that will be copied to ..\..\instances\Seaopolis\saves\Quest Set Up World 2\serverconfig\ftbultimine-server.snbt if it doesn't exist!
+# Just copy any values you wish to override in here!
+
+{ }

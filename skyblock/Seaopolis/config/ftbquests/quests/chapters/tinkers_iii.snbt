@@ -1,0 +1,151 @@
+{
+	id: "73895F7DFCC71E0E"
+	group: "4DB9B5483F48A886"
+	order_index: 1
+	filename: "tinkers_iii"
+	title: "Tinkers III"
+	icon: "tconstruct:smeltery_controller"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 4.5d
+		y: -1.5d
+		width: 4.0d
+		height: 4.0d
+		rotation: 0.0d
+		image: "modpack:textures/basic_smeltery.png"
+		hover: ["Basic Smeltery"]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["Molton copper poured into a basin containing a seared heater will turn it into a smeltery controller"]
+			dependencies: ["125106BCD379BE17"]
+			id: "6545C344C54ED370"
+			tasks: [{
+				id: "3A74098C7F5F203D"
+				type: "item"
+				item: "tconstruct:smeltery_controller"
+			}]
+			rewards: [{
+				id: "013175A4ABFB362B"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Seared Bricks"
+			x: 0.0d
+			y: -1.5d
+			description: ["The smeltery can be made at almost any size, the smallest size only has one slot for smelting in. Most contain a seared floor and bricks around the center block or blocks"]
+			dependencies: ["6545C344C54ED370"]
+			id: "0CDE0603205BA2A3"
+			tasks: [{
+				id: "0B8B2E81B3180D98"
+				type: "item"
+				title: "Any #tconstruct:seared_bricks"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "tconstruct:seared_bricks"
+					}
+				}
+			}]
+			rewards: [{
+				id: "0C16AA85CF238C3F"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Sand Casts"
+			x: 0.0d
+			y: -3.0d
+			description: [
+				"Place a blank sand cast into a casting table. Then right click with a ingot or part to create that mold in the sand. You can now pour molten liquids out into that cast. This cast is single use."
+				"Bricks work as ingots to make casts"
+			]
+			dependencies: ["0CDE0603205BA2A3"]
+			id: "4C71C9B450D02CA6"
+			tasks: [{
+				id: "69995FCA5B73D64E"
+				type: "item"
+				title: "Any #tconstruct:casts/single_use/blank"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "tconstruct:casts/single_use/blank"
+					}
+				}
+			}]
+			rewards: [{
+				id: "7318B529096188FD"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -1.5d
+			description: ["Allows you to add a faucet to the smeltery"]
+			dependencies: ["0CDE0603205BA2A3"]
+			id: "602D3D17065A9934"
+			tasks: [{
+				id: "1BA53BCFD07847FA"
+				type: "item"
+				item: "tconstruct:seared_drain"
+			}]
+			rewards: [{
+				id: "3B15F294626A7C81"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			description: ["Allows you to hopper item into the smeltery"]
+			dependencies: ["0CDE0603205BA2A3"]
+			id: "52A5509D2B5DF35A"
+			tasks: [{
+				id: "15C2215FA997D202"
+				type: "item"
+				item: "tconstruct:seared_chute"
+			}]
+			rewards: [{
+				id: "1878AB3A7CCD02EC"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.5d
+			description: ["Used to make more advanced tools like the hammer and excavator. This quest will allow any tinkers anvil."]
+			dependencies: ["4C71C9B450D02CA6"]
+			id: "70655713287112C3"
+			tasks: [{
+				id: "0AFD9EF9B52AF3D0"
+				type: "item"
+				item: {
+					id: "tconstruct:tinkers_anvil"
+					Count: 1b
+					tag: {
+						texture: "mekanism:block_bronze"
+					}
+				}
+			}]
+			rewards: [{
+				id: "00CE6105BB1B7C2D"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

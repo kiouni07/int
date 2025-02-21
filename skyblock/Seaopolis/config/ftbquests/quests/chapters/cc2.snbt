@@ -1,0 +1,215 @@
+{
+	id: "3DAA4EC54B6BA2C8"
+	group: "2AC8BC7321EA8AC5"
+	order_index: 3
+	filename: "cc2"
+	title: "CC2"
+	icon: "kubejs:star"
+	default_quest_shape: "pentagon"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Fishy"
+			x: 0.0d
+			y: -0.5d
+			description: ["Yummy"]
+			dependencies: ["6772D79EC27C8230"]
+			id: "50E6C0176FFAFB16"
+			tasks: [{
+				id: "13A8897BC4AF1F08"
+				type: "item"
+				item: "minecraft:cooked_cod"
+				count: 32L
+			}]
+			rewards: [{
+				id: "252219B6B5007AD2"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Fishy II"
+			x: 1.5d
+			y: 0.0d
+			description: ["Yummy"]
+			dependencies: ["6772D79EC27C8230"]
+			id: "79964E0ED686C0DD"
+			tasks: [{
+				id: "51950F09896052F8"
+				type: "item"
+				item: "minecraft:cooked_salmon"
+				count: 32L
+			}]
+			rewards: [{
+				id: "6FCE5BD53CC1BA55"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Smooth"
+			x: -1.5d
+			y: 3.0d
+			description: ["The most smooth stone"]
+			dependencies: ["1D601A40B0120EAC"]
+			id: "7DD133638C161544"
+			tasks: [{
+				id: "6A24444A71CD3041"
+				type: "item"
+				item: "minecraft:smooth_stone"
+				count: 64L
+			}]
+			rewards: [{
+				id: "0119A7372D3B1FAF"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Terracotta"
+			x: 0.0d
+			y: 3.5d
+			description: ["A nice building block"]
+			dependencies: ["486F654E67D1EF6B"]
+			id: "479F95EC0C991D77"
+			tasks: [{
+				id: "0875BB6E417EF317"
+				type: "item"
+				item: "minecraft:terracotta"
+				count: 64L
+			}]
+			rewards: [{
+				id: "008329D6931A5D97"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			description: ["Melts blocks and items into different fluids. Having a heat source underneath will make melting faster"]
+			dependencies: ["2246AABE20272D34"]
+			id: "2021B95C992DA58F"
+			tasks: [{
+				id: "073805BE24ED8401"
+				type: "item"
+				item: "exnihilosequentia:crucible_wood"
+			}]
+			rewards: [{
+				id: "2E04EE9EF98522F6"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Seared Bricks"
+			x: -2.0d
+			y: 1.5d
+			description: ["Seared bricks all the time"]
+			dependencies: ["7F06DBE4EF5E1577"]
+			id: "24B67F8E4AAEE2A8"
+			tasks: [{
+				id: "3B163215F94B32CC"
+				type: "item"
+				item: "tconstruct:seared_brick"
+				count: 64L
+			}]
+			rewards: [{
+				id: "43E7DECCDBCBDCA7"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Sandy"
+			x: 2.0d
+			y: 1.5d
+			description: ["Sandy sand"]
+			dependencies: ["245E8B60A5BD24E9"]
+			id: "1BF87127EFE4D49A"
+			tasks: [
+				{
+					id: "516BDA72A5DD9C48"
+					type: "item"
+					item: "minecraft:sand"
+					count: 64L
+				}
+				{
+					id: "4D5DAB59497DCB4D"
+					type: "item"
+					item: "minecraft:red_sand"
+					count: 64L
+				}
+			]
+			rewards: [{
+				id: "151A541205750884"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Reward"
+			icon: "kubejs:star"
+			x: 0.0d
+			y: 1.5d
+			description: ["Give a point to quickly store item in your storage drawers"]
+			dependencies: [
+				"7DD133638C161544"
+				"24B67F8E4AAEE2A8"
+				"2021B95C992DA58F"
+				"50E6C0176FFAFB16"
+				"79964E0ED686C0DD"
+				"1BF87127EFE4D49A"
+				"6092564208AE4D67"
+				"479F95EC0C991D77"
+			]
+			size: 1.5d
+			id: "07746A3E592EEF9E"
+			tasks: [{
+				id: "2249042941A80D05"
+				type: "checkmark"
+			}]
+			rewards: [
+				{
+					id: "53C95D7EC3B856B3"
+					type: "item"
+					item: "storagedrawers:controller"
+				}
+				{
+					id: "3088CEA1C4B73B5C"
+					type: "item"
+					item: "storagedrawers:drawer_key"
+				}
+				{
+					id: "0F9D8FE12FA0D46D"
+					type: "item"
+					item: "storagedrawers:quantify_key"
+				}
+				{
+					id: "4233BBAB1741383E"
+					type: "item"
+					item: "storagedrawers:shroud_key"
+				}
+			]
+		}
+		{
+			title: "Charcoal"
+			x: 1.5d
+			y: 3.0d
+			description: ["All the charcoal all the time"]
+			dependencies: ["49C302E9879ACC71"]
+			id: "6092564208AE4D67"
+			tasks: [{
+				id: "02FB0707F77DD826"
+				type: "item"
+				item: "minecraft:charcoal"
+				count: 64L
+			}]
+			rewards: [{
+				id: "7CEC66544A290E54"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

@@ -1,0 +1,169 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = assets/MCE/bg.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -5
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=400322%
+  width = 105
+  action = resizebutton
+  height = 95
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/assets/MCE/hvrtwo.png
+  backgroundnormal = assets/MCE/mp.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -115
+  action = movebutton
+  y = -36
+}
+
+customization {
+  identifier = %id=400298%
+  width = 105
+  action = resizebutton
+  height = 92
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/assets/MCE/hvr.png
+  backgroundnormal = assets/MCE/sp.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -80
+  action = movebutton
+  y = 59
+}
+
+customization {
+  identifier = %id=400382%
+  width = 40
+  action = resizebutton
+  height = 40
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/assets/MCE/sthvr.png
+  backgroundnormal = assets/MCE/st.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 29
+  action = movebutton
+  y = 62
+}
+
+customization {
+  identifier = %id=502382%
+  width = 39
+  action = resizebutton
+  height = 35
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/assets/MCE/xt.png
+  backgroundnormal = assets/MCE/xt.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -31
+  width = 47
+  actionid = 91ca8c54-649d-4a15-a997-51f5a7291d1c1624996337352
+  action = addbutton
+  y = 62
+  backgroundhovered = config/fancymenu/assets/assets/MCE/dchvr.png
+  label = 
+  backgroundnormal = assets/MCE/dc.png
+  value = https://discord.com/invite/ZS6FRR3
+  height = 34
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -56
+  width = 107
+  actionid = 873bda63-7855-4966-b019-4226923785591624996337357
+  action = addbutton
+  y = 99
+  backgroundhovered = config/fancymenu/assets/assets/MCE/bhhvr.png
+  label = 
+  backgroundnormal = assets/MCE/bh.png
+  value = https://bisecthosting.com/eternal 
+  height = 23
+}
+

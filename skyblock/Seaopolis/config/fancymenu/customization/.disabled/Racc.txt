@@ -1,0 +1,245 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = racc_pack
+  action = setbackgroundslideshow
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -133
+  action = movebutton
+  y = 5
+}
+
+customization {
+  identifier = %id=400322%
+  width = 260
+  action = resizebutton
+  height = 46
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/mp2.png
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/mp.png
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = mid-centered
+  x = -47
+  action = movebutton
+  y = 98
+}
+
+customization {
+  identifier = %id=604382%
+  width = 38
+  action = resizebutton
+  height = 35
+}
+
+customization {
+  identifier = %id=604382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=604382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/a2.png
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/a.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -135
+  action = movebutton
+  y = 58
+}
+
+customization {
+  identifier = %id=400382%
+  width = 124
+  action = resizebutton
+  height = 31
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/st2.png
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/st.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 3
+  action = movebutton
+  y = 58
+}
+
+customization {
+  identifier = %id=502382%
+  width = 124
+  action = resizebutton
+  height = 31
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/q2.png
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/q.png
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-centered
+  x = -98
+  action = movebutton
+  y = 98
+}
+
+customization {
+  identifier = %id=376382%
+  width = 38
+  action = resizebutton
+  height = 35
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/lg2.png
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/lg.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -134
+  action = movebutton
+  y = -45
+}
+
+customization {
+  identifier = %id=400298%
+  width = 260
+  action = resizebutton
+  height = 46
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/sp2.png
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/sp.png
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 57
+  width = 38
+  actionid = bb1d28ee-e1ce-455a-854e-c8702da356d91626189316964
+  action = addbutton
+  y = 99
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/d2.png
+  label = 
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/d.png
+  value = https://discord.gg/7yR9r5Y6gW 
+  height = 35
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = 5
+  width = 38
+  actionid = 2c53dc42-5bd0-4c9f-b13e-f14ac1b2466d1626189316966
+  action = addbutton
+  y = 98
+  backgroundhovered = config/fancymenu/Assets/Bh_RP_FM/b2.png
+  label = 
+  backgroundnormal = config/fancymenu/Assets/Bh_RP_FM/b.png
+  value = https://www.bisecthosting.com/raccpack
+  height = 35
+}
+
+customization {
+  path = config/fancymenu/Assets/Bh_RP_FM/title.png
+  orientation = top-centered
+  x = -203
+  width = 421
+  action = addtexture
+  actionid = c39c54ae-1d6b-4e78-9f63-e4c2076bdd981626189257628
+  y = 51
+  height = 70
+}
+
+customization {
+  path = config/fancymenu/Assets/Bh_RP_FM/racc.png
+  orientation = bottom-centered
+  x = -307
+  width = 101
+  action = addtexture
+  actionid = 74e76587-e5b0-4a49-903b-fae3a1150fd71626189283206
+  y = -101
+  height = 100
+}
+

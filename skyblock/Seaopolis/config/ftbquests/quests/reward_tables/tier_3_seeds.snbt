@@ -1,0 +1,16 @@
+{
+	id: "2FE0FE23C1A8D80F"
+	order_index: 1
+	title: "Tier 3 Seeds"
+	loot_size: 1
+	rewards: [
+		{ item: "mysticalagriculture:basalz_seeds" }
+		{ item: "mysticalagriculture:blitz_seeds" }
+		{ item: "mysticalagriculture:blizz_seeds" }
+		{ item: "mysticalagriculture:rabbit_seeds" }
+		{ item: "mysticalagriculture:spider_seeds" }
+		{ item: "mysticalagriculture:creeper_seeds" }
+		{ item: "mysticalagriculture:skeleton_seeds" }
+		{ item: "mysticalagriculture:zombie_seeds" }
+	]
+}

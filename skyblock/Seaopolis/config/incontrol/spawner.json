@@ -1,0 +1,142 @@
+[
+  {
+    "mob": "piratesandlootersreborn:pirate_skeleton_bomber",
+    "persecond": 0.5,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 4,
+	  "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": "piratesandlootersreborn:hgt",
+    "persecond": 0.5,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 3,
+	  "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": "piratesandlootersreborn:th",
+    "persecond": 0.5,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 3,
+	  "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": "piratesandlootersreborn:rozbitek",
+    "persecond": 0.5,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 4,
+	  "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": "upgrade_aquatic:thrasher",
+    "persecond": 0.5,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 6,
+	  "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": "upgrade_aquatic:glow_squid",
+    "persecond": 0.5,
+    "attempts": 10,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 10,
+	  "mindist": 24,
+      "maxdist": 120
+    }
+  },
+  {
+    "mob": "minecraft:dolphin",
+    "persecond": 0.5,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 3
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 10
+    }
+  },
+  {
+    "mob": "minecraft:guardian",
+    "persecond": 0.5,
+    "attempts": 2,
+    "amount": {
+      "minimum": 1,
+      "maximum": 1
+    },
+    "conditions": {
+      "dimension": "minecraft:overworld",
+      "inwater": true,
+	  "minheight": 120,
+      "maxheight": 143,
+      "maxthis": 6
+    }
+  }
+]

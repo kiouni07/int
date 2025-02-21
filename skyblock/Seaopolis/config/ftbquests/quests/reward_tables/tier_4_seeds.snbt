@@ -1,0 +1,12 @@
+{
+	id: "56D04A0D11CE528F"
+	order_index: 2
+	title: "Tier 4 Seeds"
+	loot_size: 1
+	rewards: [
+		{ item: "mysticalagriculture:enderman_seeds" }
+		{ item: "mysticalagriculture:ghast_seeds" }
+		{ item: "mysticalagriculture:blaze_seeds" }
+		{ item: "mysticalagriculture:experience_seeds" }
+	]
+}

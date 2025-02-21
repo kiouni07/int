@@ -1,0 +1,221 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = kubejs/assets/modpack/textures/background.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=604382%
+  orientation = bottom-right
+  x = -112
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=604382%
+  width = 110
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=604382%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = bottom-right
+  x = -112
+  action = movebutton
+  y = -23
+}
+
+customization {
+  identifier = %id=376382%
+  width = 110
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -23
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = bottom-centered
+  x = 2
+  action = movebutton
+  y = -23
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -46
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -69
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = bottom-centered
+  x = -100
+  action = movebutton
+  y = -92
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = 2
+  width = 98
+  actionid = d8829ea5-7864-4be6-b5ce-5cc11145804e1624266124552
+  action = addbutton
+  y = -46
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  label = Discord
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+  value = https://discord.gg/UpJknJ8
+  height = 20
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = openlink
+  x = -112
+  width = 110
+  actionid = 60634db3-3a03-4a42-8e20-0db090ac11171624266124560
+  action = addbutton
+  y = -69
+  backgroundhovered = kubejs/assets/modpack/textures/button_hover.png
+  label = Known Bugs
+  backgroundnormal = kubejs/assets/modpack/textures/button.png
+  value = https://github.com/benbenlaw/seaopolis/issues
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 6
+  width = 250
+  actionid = fa7570b9-8f87-4851-b716-6ad1896f657c1624266124566
+  action = addbutton
+  y = 6
+  backgroundhovered = kubejs/assets/modpack/textures/new_hosting.png
+  label = 
+  backgroundnormal = kubejs/assets/modpack/textures/new_hosting.png
+  value = https://www.bisecthosting.com/skyopolis
+  height = 43
+}
+
+customization {
+  orientation = top-left
+  buttonaction = openlink
+  x = 6
+  width = 250
+  actionid = 58847fbd-8fe7-4ed7-a889-92c21384d1cc1624266124571
+  action = addbutton
+  y = 52
+  backgroundhovered = kubejs/assets/modpack/textures/new_patreon.png
+  label = 
+  backgroundnormal = kubejs/assets/modpack/textures/new_patreon.png
+  value = https://www.patreon.com/benbenlaw
+  height = 43
+}
+
+customization {
+  path = kubejs/assets/modpack/textures/name.png
+  orientation = top-right
+  x = -332
+  width = 326
+  action = addtexture
+  actionid = 128c3ec2-c4b9-48c8-a8cd-d3935ae078191624264235756
+  y = 6
+  height = 90
+}
+
+customization {
+  path = kubejs/assets/modpack/textures/logo.png
+  orientation = bottom-left
+  x = 6
+  width = 110
+  action = addtexture
+  actionid = 81bd9294-7e1d-441d-b9a3-d3689c8b077d1624265126163
+  y = -127
+  height = 110
+}
+

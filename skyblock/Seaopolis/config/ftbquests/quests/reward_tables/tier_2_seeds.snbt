@@ -1,0 +1,16 @@
+{
+	id: "7013F566768DE06A"
+	order_index: 0
+	title: "Tier 2 Seeds"
+	loot_size: 1
+	rewards: [
+		{ item: "mysticalagriculture:pig_seeds" }
+		{ item: "mysticalagriculture:chicken_seeds" }
+		{ item: "mysticalagriculture:turtle_seeds" }
+		{ item: "mysticalagriculture:slime_seeds" }
+		{ item: "mysticalagriculture:fish_seeds" }
+		{ item: "mysticalagriculture:squid_seeds" }
+		{ item: "mysticalagriculture:sheep_seeds" }
+		{ item: "mysticalagriculture:cow_seeds" }
+	]
+}

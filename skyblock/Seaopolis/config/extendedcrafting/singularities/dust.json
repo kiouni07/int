@@ -1,0 +1,10 @@
+{
+  "name": "Dust",
+  "colors": [
+    "939393",
+    "939393"
+  ],
+  "ingredient": {
+    "item": "kubejs:dust"
+  }
+}

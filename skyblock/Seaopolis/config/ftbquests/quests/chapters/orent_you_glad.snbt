@@ -1,0 +1,145 @@
+{
+	id: "40FC315BBE4442C8"
+	group: "184B63E2FCAAF2EB"
+	order_index: 4
+	filename: "orent_you_glad"
+	title: "Ore'nt You Glad"
+	icon: "mekanism:chemical_dissolution_chamber"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["The start of 3 times ore prosessing. Requires flint ore oxygen gas to process"]
+			dependencies: ["7D531144ED2DEB33"]
+			id: "2A936A1E700708B5"
+			tasks: [{
+				id: "4E033EF1F24A136A"
+				type: "item"
+				item: "mekanism:purification_chamber"
+			}]
+			rewards: [{
+				id: "10B73AA073D79BB9"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			description: ["The start of 4 times ore processing. Requies hydrogen chloride or a lot of salt"]
+			dependencies: [
+				"3B53B5C3D66FBE03"
+				"2A936A1E700708B5"
+			]
+			id: "72A22F99B195DAD4"
+			tasks: [{
+				id: "62F57700D5C21294"
+				type: "item"
+				item: "mekanism:chemical_injection_chamber"
+			}]
+			rewards: [{
+				id: "3C96694353FC35C5"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Shards"
+			x: 1.5d
+			y: 1.5d
+			description: ["Made from 4 times ore processing"]
+			dependencies: ["72A22F99B195DAD4"]
+			id: "6CD3148592A8EB2D"
+			tasks: [{
+				id: "0DCD7BCF36244ADD"
+				type: "item"
+				title: "Any #mekanism:shards"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mekanism:shards"
+					}
+				}
+			}]
+			rewards: [{
+				id: "65DA106847CFFAFC"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Clumps"
+			x: 0.0d
+			y: 1.5d
+			description: ["Made from 3 times ore processing"]
+			dependencies: ["2A936A1E700708B5"]
+			id: "419FA6CB33852260"
+			tasks: [{
+				id: "43CE5D7A97E5BF45"
+				type: "item"
+				title: "Any #mekanism:clumps"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mekanism:clumps"
+					}
+				}
+			}]
+			rewards: [{
+				id: "29E44B55E33E6339"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 0.0d
+			description: ["The start of 5 times ore processing"]
+			dependencies: [
+				"72A22F99B195DAD4"
+				"7C350BEAB092D6D8"
+				"5FAD83BAE7EF5E91"
+			]
+			id: "35F88C723E608E84"
+			tasks: [{
+				id: "3768F362AC0E4A6D"
+				type: "item"
+				item: "mekanism:chemical_dissolution_chamber"
+			}]
+			rewards: [{
+				id: "7B3EDE72C1163350"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Crystals"
+			x: 3.0d
+			y: 1.5d
+			description: ["Made from 5 time ore processing"]
+			dependencies: ["35F88C723E608E84"]
+			id: "6B956F35F60753C1"
+			tasks: [{
+				id: "479A5A969DBA72DC"
+				type: "item"
+				title: "Any #mekanism:crystals"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "mekanism:crystals"
+					}
+				}
+			}]
+			rewards: [{
+				id: "15D13A10857AFF28"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

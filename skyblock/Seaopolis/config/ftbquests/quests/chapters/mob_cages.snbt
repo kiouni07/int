@@ -1,0 +1,170 @@
+{
+	id: "2AAA7EF5FF399EA9"
+	group: "64875008B078532C"
+	order_index: 3
+	filename: "mob_cages"
+	title: "Mob Cages"
+	icon: "cagedmobs:mobcage"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			description: [
+				"By collecting DNA you can place this inside of a mob cage. Then you need to add a certain block shown in JEI. This will then start to generate mob drops based on the mob inside"
+				"Example. Hit a cow to get its DNA in a DNA sampler, the add a wheat block to the cage and right click the DNA in. You will se that it starts to make loot. Right click to harvest"
+			]
+			dependencies: [
+				"6B4AADD28F04B300"
+				"6DF6C381F260F8DA"
+			]
+			id: "7E5B19600F3E0B0B"
+			tasks: [{
+				id: "2617E9BE3580B983"
+				type: "item"
+				item: "cagedmobs:mobcage"
+			}]
+			rewards: [{
+				id: "2598E2CFE84F732D"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 0.0d
+			description: ["Obtains DNA from certain passive mobs"]
+			dependencies: ["7E5B19600F3E0B0B"]
+			id: "2EC3FF0FF3846BAB"
+			tasks: [{
+				id: "54ABED56DD9B58DC"
+				type: "item"
+				item: "cagedmobs:dnasampler"
+			}]
+			rewards: [{
+				id: "694C4BA428E53A86"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 0.0d
+			description: ["Obtains DNA from certain hostile mobs"]
+			dependencies: ["2EC3FF0FF3846BAB"]
+			id: "45AC62B662D4F5B9"
+			tasks: [{
+				id: "73BC96607253842E"
+				type: "item"
+				item: "cagedmobs:dnasamplerdiamond"
+			}]
+			rewards: [{
+				id: "4F5741FF111A6789"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.0d
+			description: ["Obtains DNA from boss mobs"]
+			dependencies: ["45AC62B662D4F5B9"]
+			id: "2249B0AB883AAB53"
+			tasks: [{
+				id: "32606403CEDA7E65"
+				type: "item"
+				item: "cagedmobs:dnasamplernetherite"
+			}]
+			rewards: [{
+				id: "23E0CAD61BF3F292"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			description: ["Automatically output generated items"]
+			dependencies: ["7E5B19600F3E0B0B"]
+			id: "4F941D84E1C52DC1"
+			tasks: [{
+				id: "25FF09AD2321A00F"
+				type: "item"
+				item: "cagedmobs:hoppingmobcage"
+			}]
+			rewards: [{
+				id: "5844DF3B0DBD224E"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 0.0d
+			description: ["This quest line will open new quests as you progress through the pack keep checking back to see whats new"]
+			id: "6DF6C381F260F8DA"
+			tasks: [{
+				id: "300467262D12CDBC"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "2AC386583EC30BAC"
+				type: "item"
+				item: "kubejs:sea_bucks"
+				count: 4
+			}]
+		}
+		{
+			x: -1.5d
+			y: -1.5d
+			description: ["Upgrades for caged mobs"]
+			dependencies: ["7E5B19600F3E0B0B"]
+			id: "2AD6EFBC2BA1892D"
+			tasks: [{
+				id: "79614CFFED8CA9A5"
+				type: "item"
+				item: "cagedmobs:arrowupgrade"
+			}]
+			rewards: [{
+				id: "42E3834EA165B9F5"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.5d
+			description: ["Upgrades for caged mobs"]
+			dependencies: ["7E5B19600F3E0B0B"]
+			id: "7DFC5DED989CB568"
+			tasks: [{
+				id: "2AF9A5BC1C992E8F"
+				type: "item"
+				item: "cagedmobs:cookingupgrade"
+			}]
+			rewards: [{
+				id: "32D9636DBC3345F6"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			description: ["Upgrades for caged mobs"]
+			dependencies: ["7E5B19600F3E0B0B"]
+			id: "6328141A8777433C"
+			tasks: [{
+				id: "4D8B371F216E5AB5"
+				type: "item"
+				item: "cagedmobs:lightningupgrade"
+			}]
+			rewards: [{
+				id: "1F9FD227EE7404D5"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

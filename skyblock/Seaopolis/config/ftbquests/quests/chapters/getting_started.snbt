@@ -1,0 +1,234 @@
+{
+	id: "0BCFB8CDA1E33EF8"
+	group: "22B882B2BC2ECB9C"
+	order_index: 0
+	filename: "getting_started"
+	title: "Information"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -2.0d
+			y: 0.0d
+			description: [
+				"Welcome to seaopolis a water based questing modpack"
+				""
+			]
+			dependencies: ["3721DDE4B18ED4F9"]
+			id: "3B96CF9A8134FBBE"
+			tasks: [{
+				id: "0A1E22DC4B737E51"
+				type: "checkmark"
+				title: "Welcome To Seaopolis"
+			}]
+			rewards: [{
+				id: "2CF8CEDCCF5D57DD"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			description: ["The quests will help you on your way to survival"]
+			dependencies: ["3B96CF9A8134FBBE"]
+			id: "41571F8068177B58"
+			tasks: [{
+				id: "0BA78FBC37894659"
+				type: "checkmark"
+				title: "Read The Quests"
+			}]
+			rewards: [{
+				id: "6E5368FCF58DD5E0"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 1.0d
+			description: ["Sea bucks can be used to buy items from the shop"]
+			dependencies: ["41571F8068177B58"]
+			id: "4343F80841FE53E0"
+			tasks: [{
+				id: "718584F5784F7E02"
+				type: "checkmark"
+				title: "Sea Bucks"
+			}]
+			rewards: [{
+				id: "1EBFECC734B2F2BC"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Chapters"
+			x: 1.0d
+			y: 1.5d
+			description: ["Quest lines now have sub quest lines double check to make sure you complete them all"]
+			dependencies: ["41571F8068177B58"]
+			id: "40587CCD42404F3E"
+			tasks: [{
+				id: "72F1DF37EB4D7F68"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "5F19693E76A99D2E"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Teams"
+			x: 3.0d
+			y: -1.0d
+			description: ["FTB Quests allows you to share progress with you friends as you go. After creating a team you must reconnect to your game"]
+			dependencies: ["41571F8068177B58"]
+			id: "34EDB5FD13A1D941"
+			tasks: [{
+				id: "260A4B3C97512942"
+				type: "checkmark"
+				title: "Teams"
+			}]
+			rewards: [{
+				id: "1345036BEB8A534B"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Ore Excavation"
+			x: 2.0d
+			y: -1.5d
+			description: [
+				"This allows you to mine multiple blocks of the same type quickly whilst holding a button. By default this is the 'grave' key (button to the left of 1)"
+				"If you make a mistake you can do '/undo_excavation'."
+				"You can undo upto the last 3 excavations"
+				"There is also FTB ultimine that can be used by pressing `grave` as well. Ultimine allows you to excavate in different shapes. However there is no undo function"
+			]
+			dependencies: ["41571F8068177B58"]
+			id: "72A4CCE3D955EE11"
+			tasks: [{
+				id: "3CB6BA0CCDF3C029"
+				type: "checkmark"
+				title: "FTB Ultimine"
+			}]
+			rewards: [{
+				id: "09207E7D53951E35"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Chapter Challenges"
+			x: 1.0d
+			y: -1.5d
+			description: ["Completing chapter challeges (CC) will give you a special reward"]
+			dependencies: ["41571F8068177B58"]
+			id: "6895F87C1AACD3BB"
+			tasks: [{
+				id: "5B61284C1FB4E6F1"
+				type: "checkmark"
+				title: "Chapter Challanges"
+			}]
+			rewards: [{
+				id: "188E6E5DDD1FD39D"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.5d
+			description: ["Press \"J\" to open up a full screen map"]
+			dependencies: ["41571F8068177B58"]
+			id: "0FF36B7A9BBA4B56"
+			tasks: [{
+				id: "47916C29298B2A1A"
+				type: "checkmark"
+				title: "Map"
+			}]
+			rewards: [{
+				id: "485E7968435380E5"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.0d
+			description: ["You have 2 blocks above sea level which is safe anything above that is toxic air which will poison you"]
+			dependencies: ["41571F8068177B58"]
+			id: "49733BD0D9E19FFD"
+			tasks: [{
+				id: "77086E18C9A9CD5C"
+				type: "checkmark"
+				title: "Remember"
+			}]
+			rewards: [{
+				id: "0DF49B29CF739357"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			description: ["Kill quests only trigger on melee attacks ranged attacks do not work"]
+			dependencies: ["41571F8068177B58"]
+			id: "2B013507D5368E66"
+			tasks: [{
+				id: "6B14709AD0252F63"
+				type: "checkmark"
+				title: "Kill Quests"
+			}]
+			rewards: [{
+				id: "1EBB42426EB21C73"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 0.0d
+			description: [
+				"You must set up a team by using"
+				""
+				"/ftbteams party create "
+				""
+				"Add other players to your team"
+				""
+				"/ftbteams party invite <player>"
+			]
+			id: "3721DDE4B18ED4F9"
+			tasks: [{
+				id: "7FAAF74E4F48583C"
+				type: "checkmark"
+				title: "Is It Working?"
+			}]
+			rewards: [{
+				id: "01EFC035836A3A87"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Dependencies"
+			x: 3.5d
+			y: 0.0d
+			description: ["Some quests have dependencies meaning that they require other quests to be completed first. Click the little arrow in the top left of a quest window to view the dependencies for that quest"]
+			dependencies: ["41571F8068177B58"]
+			id: "2C5D8892B368A28A"
+			tasks: [{
+				id: "48F6377B568ED392"
+				type: "checkmark"
+				title: "Dependencies "
+			}]
+			rewards: [{
+				id: "50C572935AC23C8E"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

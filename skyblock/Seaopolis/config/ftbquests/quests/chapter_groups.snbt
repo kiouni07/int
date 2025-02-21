@@ -1,0 +1,19 @@
+{
+	chapter_groups: [
+		{ id: "22B882B2BC2ECB9C", title: "Welcome To The Sea" }
+		{ id: "2AC8BC7321EA8AC5", title: "Moving On Up" }
+		{ id: "03E3B42E85808D00", title: "Farming And Foods" }
+		{ id: "4DB9B5483F48A886", title: "Advancing" }
+		{ id: "3FD087EA9EF8D76E", title: "Exploration" }
+		{ id: "0593EA7BDA805886", title: "Serious Advances" }
+		{ id: "64875008B078532C", title: "Thermal Expansion" }
+		{ id: "184B63E2FCAAF2EB", title: "Advanced Machinery" }
+		{ id: "28576A521A03D90C", title: "Refined Storage" }
+		{ id: "17E25FA0C0B8965A", title: "All The Farming" }
+		{ id: "4242B266310A5A69", title: "Serious Power" }
+		{ id: "55313D056059BC49", title: "Whats Up There" }
+		{ id: "0A96037676914BBE", title: "The Arena" }
+		{ id: "3BC102B21F0A0E0D", title: "The Endgame" }
+		{ id: "13C985C5CFDD71E2", title: "Shop" }
+	]
+}

@@ -1,0 +1,177 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/assets/Sea/back.png
+  action = texturizebackground
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -111
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=400322%
+  width = 207
+  action = resizebutton
+  height = 41
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Sea/mp2.png
+  backgroundnormal = config/fancymenu/assets/Sea/mp.png
+}
+
+customization {
+  identifier = %id=400322%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -54
+  action = movebutton
+  y = 69
+}
+
+customization {
+  identifier = %id=400382%
+  width = 47
+  action = resizebutton
+  height = 41
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Sea/st2.png
+  backgroundnormal = config/fancymenu/assets/Sea/s.png
+}
+
+customization {
+  identifier = %id=400382%
+  action = sethoverlabel
+  label = 
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = -5
+  action = movebutton
+  y = 68
+}
+
+customization {
+  identifier = %id=502382%
+  width = 47
+  action = resizebutton
+  height = 41
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Sea/q2.png
+  backgroundnormal = config/fancymenu/assets/Sea/q.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -113
+  action = movebutton
+  y = -66
+}
+
+customization {
+  identifier = %id=400298%
+  width = 206
+  action = resizebutton
+  height = 41
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Sea/sp2.png
+  backgroundnormal = config/fancymenu/assets/Sea/sp.png
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  path = config/fancymenu/assets/Sea/logo.png
+  orientation = mid-centered
+  x = -170
+  width = 334
+  actionid = f391206f-cb50-40d1-a304-e1608966c0441628700764562
+  action = addtexture
+  y = -132
+  height = 55
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -108
+  width = 205
+  actionid = 8a4ebf72-f917-4cfc-830c-b8eec6d1de3a1632916101249
+  action = addbutton
+  y = 26
+  backgroundhovered = config/fancymenu/assets/Sea/bh2.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Sea/bh.png
+  value = 
+  height = 41
+}
+

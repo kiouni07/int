@@ -1,0 +1,77 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.CreateWorldScreen
+  renderorder = background
+}
+
+customization {
+  identifier = %id=345185%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505185%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505120%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505151%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -75
+  width = 150
+  actionid = 4d9cffb7-25f9-4165-a326-1c3d785925691620308502086
+  action = addbutton
+  y = 31
+  label = Discord
+  value = 
+  height = 20
+}
+
+customization {
+  identifier = %id=345100%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = -15
+}
+
+customization {
+  identifier = %id=345151%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = 8
+}
+
+customization {
+  identifier = %id=505100%
+  orientation = mid-centered
+  x = -75
+  action = movebutton
+  y = -38
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = opengui
+  x = -75
+  width = 150
+  actionid = 6daed2c2-2108-41d6-9880-2a541abf2c5c1620308502093
+  action = addbutton
+  y = 54
+  label = World Templates
+  value = de.melanx.skyblockbuilder.client.ScreenCustomizeSkyblock
+  height = 20
+}
+

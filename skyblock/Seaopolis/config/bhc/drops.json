@@ -1,0 +1,21 @@
+{
+  "heartEntries": {
+    "red": {
+      "minecraft:pig": 0.05, "minecraft:cow": 0.05, "minecraft:chicken": 0.05, 
+      "minecraft:bat": 0.05, "minecraft:cat": 0.05, "minecraft:fox": 0.05, 
+      "minecraft:donkey": 0.05, "minecraft:horse": 0.05, "minecraft:mule": 0.05, 
+      "minecraft:mooshroom": 0.05, "minecraft:ocelet": 0.05, "minecraft:parrot": 0.05, 
+      "minecraft:rabbit": 0.05, "minecraft:sheep": 0.05, "minecraft:squid": 0.05, 
+      "minecraft:turtle": 0.05, "minecraft:strider": 0.05, "minecraft:wandering_trader": 0.05
+    },
+    "green": {
+      "minecraft:piglin": 0.05, "minecraft:wither_skeleton": 0.05, "minecraft:piglin_brute": 0.05, "minecraft:zombified_piglin": 0.05, "minecraft:enderman": 0.05, "minecraft:hoglin": 0.05, "minecraft:zoglin": 0.05, "minecraft:ghast": 0.05, "minecraft:magma_cube": 0.05, "quark:foxhound": 0.05, "lava_monster:lava_monster": 0.5
+    },
+    "blue": {
+      "minecraft:ender_dragon": 1.0, "minecraft:wither": 1.0
+    },
+    "yellow": {
+      "hostile": 0.05
+    }
+  }
+}

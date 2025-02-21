@@ -1,0 +1,10 @@
+{
+  "name": "Stone",
+  "colors": [
+    "8C8C8C",
+    "8C8C8C"
+  ],
+  "ingredient": {
+    "tag": "forge:stone"
+  }
+}

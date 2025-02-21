@@ -1,0 +1,11 @@
+{
+	id: "3C5DFF62451F5A7F"
+	order_index: 3
+	title: "Boss Eggs"
+	loot_size: 1
+	rewards: [
+		{ item: "dungeonsmod:kraken_egg" }
+		{ item: "dungeonsmod:crawler_egg" }
+		{ item: "dungeonsmod:voidmaster_egg" }
+	]
+}

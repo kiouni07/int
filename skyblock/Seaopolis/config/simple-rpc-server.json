@@ -1,0 +1,45 @@
+{
+  "enabled": false,
+  "version": 2,
+  "multi_player": {
+    "_comment": "This is called when the player is playing multi-player",
+    "enabled": true,
+    "state": "Playing online",
+    "description": "Playing on %servername% with %players% players",
+    "largeImageKey": "mclogo",
+    "largeImageText": "It's Minecraft %mcver%, but modded",
+    "smallImageKey": "mclogo",
+    "smallImageText": "%mods% mods installed",
+    "_comment": "This allows you to add custom link buttons to the status. Leave this empty to disable",
+    "_comment": "See wiki on how to configure",
+    "buttons": []
+  },
+  "world_images": {
+    "_comment": "This section allows you to override the largeImageKey & smallImageKey/Text used in single player and multiplayer",
+    "_comment": "Remove values or leave them blank to ignore them",
+    "enabled": false,
+    "worlds": [
+      {
+        "worldname": "overworld",
+        "largeImageKey": "overworld",
+        "largeImageText": "In the Overworld",
+        "smallImageKey": "mclogo",
+        "smallImageText": "%mods% mods installed"
+      },
+      {
+        "worldname": "the_nether",
+        "largeImageKey": "nether",
+        "largeImageText": "In the Nether",
+        "smallImageKey": "mclogo",
+        "smallImageText": "%mods% mods installed"
+      },
+      {
+        "worldname": "the_end",
+        "largeImageKey": "end",
+        "largeImageText": "In the End",
+        "smallImageKey": "mclogo",
+        "smallImageText": "%mods% mods installed"
+      }
+    ]
+  }
+}

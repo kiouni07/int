@@ -1,0 +1,10 @@
+{
+  "name": "Mob",
+  "colors": [
+    "64062A",
+    "64062A"
+  ],
+  "ingredient": {
+    "tag": "seaopolis:naughty_mobs"
+  }
+}

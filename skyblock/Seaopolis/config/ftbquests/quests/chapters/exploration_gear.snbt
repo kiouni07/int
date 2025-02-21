@@ -1,0 +1,342 @@
+{
+	id: "5DD5220E3EE48912"
+	group: "3FD087EA9EF8D76E"
+	order_index: 0
+	filename: "exploration_gear"
+	title: "Ocean Exploration"
+	icon: {
+		id: "mekanism:scuba_mask"
+		Count: 1b
+		tag: {
+			HideFlags: 2
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 1.5d
+			y: 0.0d
+			description: ["Provides water breathing when activated with a button"]
+			dependencies: ["652287EF7C5633EC"]
+			id: "0D8DB4DAFC625AA9"
+			tasks: [{
+				id: "11C1D4D93A916A33"
+				type: "item"
+				item: {
+					id: "mekanism:scuba_tank"
+					Count: 1b
+					tag: {
+						HideFlags: 2
+					}
+				}
+			}]
+			rewards: [{
+				id: "6F7A8EAD13B5F98D"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			description: ["Scuba helmet when pared with scuba tank provides a great way to swim"]
+			dependencies: [
+				"496303094B5DEB3D"
+				"045D75373A7B5028"
+				"6247DE3A9E15EDCF"
+			]
+			id: "7E27F28912262AFC"
+			tasks: [{
+				id: "0CCAE9F3D9C5CEF7"
+				type: "item"
+				item: {
+					id: "mekanism:scuba_mask"
+					Count: 1b
+					tag: {
+						HideFlags: 2
+					}
+				}
+			}]
+			rewards: [{
+				id: "41B36DCBB20CEC28"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			description: ["Seperates water into oxygen and hydrogen"]
+			dependencies: [
+				"7E27F28912262AFC"
+				"3217111B8C9296E7"
+				"3C098BECC8635515"
+				"545E9B8C2AE819BE"
+				"02F1F0C874245C67"
+			]
+			id: "652287EF7C5633EC"
+			tasks: [{
+				id: "6895FDC677B23564"
+				type: "item"
+				item: "mekanism:electrolytic_separator"
+			}]
+			rewards: [{
+				id: "6FDF2B9F5B57B698"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 1.5d
+			description: ["Summon a golem to help fight for you"]
+			dependencies: ["20BE7C5934721F47"]
+			id: "298BE9CF14792042"
+			tasks: [{
+				id: "468F42C2C95043CD"
+				type: "item"
+				item: "kubejs:iron_golem"
+			}]
+			rewards: [{
+				id: "34EC60A4E5C5F01E"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			description: ["Helps you find your way"]
+			dependencies: [
+				"673523BB88277498"
+				"20BE7C5934721F47"
+			]
+			id: "03B612F5C21F93AD"
+			tasks: [{
+				id: "1EB05035450088F7"
+				type: "item"
+				item: "minecraft:compass"
+			}]
+			rewards: [{
+				id: "16690E4E558C00FA"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			description: ["Because sometimes a digital map is just not enough"]
+			dependencies: ["03B612F5C21F93AD"]
+			id: "76EAAA8CDF013687"
+			tasks: [{
+				id: "0F23A6FCD2AF5D23"
+				type: "item"
+				item: "minecraft:map"
+			}]
+			rewards: [{
+				id: "694578419B933E9B"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.5d
+			description: ["When combined with certain items and blocks it can make a different map block"]
+			dependencies: ["76EAAA8CDF013687"]
+			id: "6B11C5F16CAC25BB"
+			tasks: [{
+				id: "2599B406F2DDE417"
+				type: "item"
+				item: "kubejs:map"
+			}]
+			rewards: [{
+				id: "3856BF148BCE2170"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.5d
+			description: ["Creates a map to a ocean monument when broken"]
+			dependencies: [
+				"6B11C5F16CAC25BB"
+				"5AC99CA0C326EEDC"
+			]
+			optional: true
+			id: "7E715E5D6033ECB8"
+			tasks: [{
+				id: "52DE830D18B877DF"
+				type: "item"
+				item: "kubejs:map1"
+			}]
+			rewards: [{
+				id: "1706B9129E50D64F"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 4.5d
+			description: ["Found in ocean monuments are a maximum of 3 in each monument"]
+			dependencies: ["7E715E5D6033ECB8"]
+			id: "586CDC3BE394003F"
+			tasks: [{
+				id: "2C1123CA9569AD15"
+				type: "kill"
+				entity: "minecraft:elder_guardian"
+				value: 1L
+			}]
+			rewards: [{
+				id: "66946886ED813F5B"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.0d
+			description: ["This quest line will open new quests as you progress through the pack keep checking back to see whats new"]
+			id: "6247DE3A9E15EDCF"
+			tasks: [{
+				id: "647F86ECACF23DB0"
+				type: "checkmark"
+				title: "This Questline"
+			}]
+			rewards: [{
+				id: "17193F339CF48511"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 6.0d
+			description: ["Creates a map to a warped garden when broken"]
+			dependencies: ["6B11C5F16CAC25BB"]
+			optional: true
+			id: "6408F94430193423"
+			tasks: [{
+				id: "630A6A711B9849EB"
+				type: "item"
+				item: "kubejs:map3"
+			}]
+			rewards: [{
+				id: "20C88A78259D4B1F"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 7.5d
+			description: ["Drowned zombies"]
+			dependencies: ["6408F94430193423"]
+			id: "41D47E6FBCB772C4"
+			tasks: [{
+				id: "3A9A909D6B77F0B7"
+				type: "kill"
+				entity: "minecraft:drowned"
+				value: 1L
+			}]
+			rewards: [{
+				id: "52E16B8315A1A187"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 9.0d
+			description: ["Used to make warped fungus trees"]
+			dependencies: ["41D47E6FBCB772C4"]
+			id: "26C481BE0041F744"
+			tasks: [{
+				id: "2E3231E1247E450C"
+				type: "item"
+				item: "minecraft:warped_fungus"
+			}]
+			rewards: [{
+				id: "717136D2ACC6783D"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Blocks Of Emerald"
+			x: -4.5d
+			y: 4.5d
+			description: ["Can be found in the head of some leviathans and given as a reward from the questing ram in the twilight forest"]
+			dependencies: ["7F63CE257E411843"]
+			id: "1DC5AC16BAB86CFB"
+			tasks: [{
+				id: "6BBA00307F330F0C"
+				type: "item"
+				item: "minecraft:emerald_block"
+				count: 4L
+			}]
+			rewards: [{
+				id: "66BE12C9F889709E"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 4.5d
+			description: ["Burned zombies"]
+			dependencies: ["42C8BD64514B1F67"]
+			id: "7F63CE257E411843"
+			tasks: [{
+				id: "5F88987E71DA8696"
+				type: "kill"
+				entity: "minecraft:husk"
+				value: 1L
+			}]
+			rewards: [{
+				id: "6F1AA1906E895BFB"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			description: ["Uses hydrogen to create power"]
+			dependencies: ["652287EF7C5633EC"]
+			id: "3321D0395ABE0E8D"
+			tasks: [{
+				id: "39E07FAA65933002"
+				type: "item"
+				item: "mekanismgenerators:gas_burning_generator"
+			}]
+			rewards: [{
+				id: "1A351C6BDCA49AD8"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 4.5d
+			description: ["Creates a map to a leviathan when broken"]
+			dependencies: ["6B11C5F16CAC25BB"]
+			optional: true
+			id: "42C8BD64514B1F67"
+			tasks: [{
+				id: "307B4E24E9B7E6A7"
+				type: "item"
+				item: "kubejs:map4"
+			}]
+			rewards: [{
+				id: "089F48FB5AB06193"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+	]
+}

@@ -1,0 +1,259 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  renderorder = foreground
+}
+
+customization {
+  path = config/fancymenu/assets/Kingdom/backround.png
+  action = texturizebackground
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -124
+  width = 244
+  actionid = cab0cf73-5e90-4f2d-a4f5-309623477c531628535325650
+  action = addbutton
+  y = -146
+  backgroundhovered = config/fancymenu/assets/Kingdom/logohvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/logo.png
+  value = 
+  height = 101
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -84
+  action = movebutton
+  y = -4
+}
+
+customization {
+  identifier = %id=400322%
+  width = 167
+  action = resizebutton
+  height = 31
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Kingdom/mphvr.png
+  backgroundnormal = config/fancymenu/assets/Kingdom/mp.png
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -81
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=400382%
+  width = 78
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Kingdom/ophvr.png
+  backgroundnormal = config/fancymenu/assets/Kingdom/op.png
+}
+
+customization {
+  identifier = %id=376382%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -84
+  action = movebutton
+  y = -38
+}
+
+customization {
+  identifier = %id=400298%
+  width = 167
+  action = resizebutton
+  height = 30
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Kingdom/sphvr.png
+  backgroundnormal = config/fancymenu/assets/Kingdom/sp.png
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 30
+}
+
+customization {
+  identifier = %id=502382%
+  width = 78
+  action = resizebutton
+  height = 23
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttontexture
+  backgroundhovered = config/fancymenu/assets/Kingdom/qhvr.png
+  backgroundnormal = config/fancymenu/assets/Kingdom/q.png
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -81
+  width = 167
+  actionid = 0228aa8e-3b80-4087-939a-b32371ffe8b61628535325684
+  action = addbutton
+  y = 56
+  backgroundhovered = config/fancymenu/assets/Kingdom/bhhvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/bh.png
+  value = https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fbisecthosting.com%252fAMPZ
+  height = 31
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = 62
+  width = 28
+  actionid = 0c694d25-2f61-4206-a504-d72ab6b6ba7c1628535325685
+  action = addbutton
+  y = -32
+  backgroundhovered = config/fancymenu/assets/Kingdom/thvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/t.png
+  value = https://twitter.com/AMPZNETWORK
+  height = 28
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = 30
+  width = 28
+  actionid = 39603906-7e03-43ad-b965-5a2374ec3f2d1628535325685
+  action = addbutton
+  y = -32
+  backgroundhovered = config/fancymenu/assets/Kingdom/ghhvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/gh.png
+  value = https://github.com/AMPZNetwork/Kingdoms-of-the-Valley
+  height = 28
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = -1
+  width = 28
+  actionid = 8c6ad8cd-9ddc-4f1d-8fda-eb98e30bbd1c1628535325686
+  action = addbutton
+  y = -32
+  backgroundhovered = config/fancymenu/assets/Kingdom/fhvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/f.png
+  value = https://forums.ampznetwork.com/
+  height = 28
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = -32
+  width = 28
+  actionid = 094123c9-6851-49c1-82a9-f92a0484fe441628535325686
+  action = addbutton
+  y = -32
+  backgroundhovered = config/fancymenu/assets/Kingdom/fhvr_1.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/f_1.png
+  value = https://www.facebook.com/AMPZNETWORK
+  height = 28
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = -63
+  width = 28
+  actionid = 27eea688-3232-4be8-a2b5-bb1d14ceaa471628535325686
+  action = addbutton
+  y = -32
+  backgroundhovered = config/fancymenu/assets/Kingdom/ighvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/ig.png
+  value = https://www.instagram.com/ampznetwork/
+  height = 28
+}
+
+customization {
+  orientation = bottom-centered
+  buttonaction = openlink
+  x = -94
+  width = 28
+  actionid = aa3a3c2f-68a5-44d8-ae05-b88b13b329571628535325687
+  action = addbutton
+  y = -32
+  backgroundhovered = config/fancymenu/assets/Kingdom/shphvr.png
+  label = 
+  backgroundnormal = config/fancymenu/assets/Kingdom/shp.png
+  value = https://forums.ampznetwork.com/store/
+  height = 28
+}
+

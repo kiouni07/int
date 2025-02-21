@@ -1,0 +1,10 @@
+{
+  "name": "Seed",
+  "colors": [
+    "5C8E3F",
+    "5C8E3F"
+  ],
+  "ingredient": {
+    "tag": "forge:seeds"
+  }
+}

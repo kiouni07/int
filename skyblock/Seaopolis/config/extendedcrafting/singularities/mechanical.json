@@ -1,0 +1,10 @@
+{
+  "name": "Mechanical",
+  "colors": [
+    "606060",
+    "606060"
+  ],
+  "ingredient": {
+    "tag": "minecraft:machine_frame"
+  }
+}

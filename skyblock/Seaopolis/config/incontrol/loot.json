@@ -1,0 +1,19 @@
+[
+  {
+    "mob": "minecraft:turtle",
+    "player": true,
+    "item": "minecraft:scute",
+    "itemcount": "1"
+  },
+  {
+    "mob": "minecraft:elder_guardian",
+    "remove": "bountifulbaubles:vitamins"
+  },
+  {
+    "mob": "minecraft:shulker",
+    "player": true,
+    "item": "minecraft:shulker_shell",
+    "itemcount": "1"
+  }
+]
+

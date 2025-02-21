@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "group": "tdp.500.2:repair_anvil", "pattern": ["aaa", "aba", "aaa"], "key": {"a": {"item": "minecraft:iron_ingot"}, "b": {"item": "minecraft:damaged_anvil"}}, "result": {"item": "minecraft:chipped_anvil"}}

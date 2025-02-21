@@ -1,0 +1,154 @@
+{
+	id: "64FE3CF11ABC9000"
+	group: "28576A521A03D90C"
+	order_index: 2
+	filename: "cc9"
+	title: "CC9"
+	icon: "kubejs:star"
+	default_quest_shape: "pentagon"
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "The Best Range"
+			x: -1.5d
+			y: -1.0d
+			description: ["Provides infinite range for refined storage"]
+			dependencies: ["5708D7A32FD88EF3"]
+			id: "095E87FA9F2C48EC"
+			tasks: [{
+				id: "12F0B0AA6C36AC4F"
+				type: "item"
+				item: "rsinfinitybooster:infinity_card"
+			}]
+			rewards: [{
+				id: "18120D56B46C5583"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Quartz Enriched Iron"
+			x: 0.0d
+			y: -2.0d
+			description: ["Rich quartz"]
+			dependencies: ["01498C5BDE8C936D"]
+			id: "0E1EF778B6CB56FD"
+			tasks: [{
+				id: "6CA053353F78AF02"
+				type: "item"
+				item: "refinedstorage:quartz_enriched_iron"
+				count: 64L
+			}]
+			rewards: [{
+				id: "0DF10ED8DDD7E3FF"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Big Storage Parts"
+			x: 1.5d
+			y: -1.0d
+			description: ["Good storage"]
+			dependencies: ["4B20419F938BA589"]
+			id: "2DDFAEA077D51AB1"
+			tasks: [{
+				id: "7548B8980B548B80"
+				type: "item"
+				item: "refinedstorage:64k_storage_part"
+				count: 16L
+			}]
+			rewards: [{
+				id: "0D17FD1859BBE8B0"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 1.0d
+			description: ["Holds loads of recieps"]
+			dependencies: ["67C946A8893114FF"]
+			id: "2216A928D2BC30C4"
+			tasks: [{
+				id: "42F7B658506E7EF1"
+				type: "item"
+				item: "extrastorage:netherite_crafter"
+			}]
+			rewards: [{
+				id: "78A4293DBF8ED8F4"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			description: ["Thats pretty big"]
+			dependencies: ["4B20419F938BA589"]
+			id: "3375331A1CDB9B56"
+			tasks: [{
+				id: "22B1AA1E321E9C84"
+				type: "item"
+				item: "extrastorage:storagepart_16384k"
+			}]
+			rewards: [{
+				id: "6B49F66FDB3124B2"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "All The Patterns"
+			x: 1.5d
+			y: 1.0d
+			description: ["All the patterns"]
+			dependencies: ["16B024D420CDC33E"]
+			dependency_requirement: "one_completed"
+			id: "20C2CF6B0158F352"
+			tasks: [{
+				id: "5F0AE9FD3B8B7E60"
+				type: "item"
+				item: "refinedstorage:pattern"
+				count: 64L
+			}]
+			rewards: [{
+				id: "746A37835A1FD591"
+				type: "item"
+				item: "kubejs:sea_bucks"
+			}]
+		}
+		{
+			title: "Reward"
+			x: 0.0d
+			y: 0.0d
+			description: ["Another additional modifier to tinkers tools"]
+			dependencies: [
+				"0E1EF778B6CB56FD"
+				"095E87FA9F2C48EC"
+				"2216A928D2BC30C4"
+				"3375331A1CDB9B56"
+				"20C2CF6B0158F352"
+				"2DDFAEA077D51AB1"
+			]
+			size: 1.5d
+			id: "3A1A07432C5E1387"
+			tasks: [{
+				id: "117C73E8B8DBC909"
+				type: "checkmark"
+				icon: "kubejs:star"
+			}]
+			rewards: [{
+				id: "427E4A74B7F4337F"
+				type: "item"
+				item: {
+					id: "tconstruct:creative_slot"
+					Count: 1b
+					tag: {
+						slot: "upgrades"
+					}
+				}
+			}]
+		}
+	]
+}

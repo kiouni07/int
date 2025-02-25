@@ -17,52 +17,12 @@
           "seed": 0,
           "biomes": [
 	    {
-              "biome": "minecraft:volcanic_barren",
+              "biome": "minecraft:mushroom_fields",
               "parameters": {
                 "altitude": 0.30650806,
-		"humidity": 0.0,
-                "temperature": 1.0,				
-                "weirdness": 0.09,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "minecraft:ocean",
-              "parameters": {
-                "altitude": 0.4057547,
-		"humidity": 0.5,
-                "temperature": 0.5,				
-                "weirdness": 0.1,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "minecraft:lukewarm_ocean",
-              "parameters": {
-                "altitude": 0.016404748,
-		"humidity": 0.5,
-                "temperature": 0.5,				
-                "weirdness": 0.1,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "minecraft:warm_ocean",
-              "parameters": {
-                "altitude": 0.13676673,
-		"humidity": 0.5,
-                "temperature": 0.5,				
-                "weirdness": 0.1,
-                "offset": 0
-              }
-            },
-	    {
-              "biome": "minecraft:bamboo_jungle",
-              "parameters": {
-                "altitude": 0.9041739,
-		"humidity": 0.9,
-                "temperature": 0.95,				
-                "weirdness": 0.2,
+		"humidity": 1.0,
+                "temperature": 0.9,				
+                "weirdness": 0.3,
                 "offset": 0
               }
             }
